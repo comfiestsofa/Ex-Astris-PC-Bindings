@@ -141,6 +141,78 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
+                "description": "EXA_ENTROPITHEXA_SPACE1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.14146023468057367,
+                    "rel_y": 0.9142526071842411
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RB+←",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.14146023468057367,
+                "rel_y": 0.9142526071842411
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_ENTROPITHEXA_SPACE2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.20730117340286836,
+                    "rel_y": 0.9154113557358053
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RB+↑",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.20730117340286836,
+                "rel_y": 0.9154113557358053
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_ENTROPITHEXA_SPACE3",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.27444589308996087,
+                    "rel_y": 0.9177288528389339
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RB+→",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.27444589308996087,
+                "rel_y": 0.9177288528389339
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
                 "description": "EXA_INTERACT",
                 "radius_correction": 1,
                 "rel_position": {
