@@ -10,61 +10,25 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "",
+                "description": "EXA_CHARACTER_SCREEN/EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.605625,
-                    "rel_y": 0.44333333333333336
+                    "rel_x": 0.9282814614343706,
+                    "rel_y": 0.06859205776173286
                 },
                 "visibility": true
             },
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "Right_Stick",
+                "text": "Start",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.605625,
-                "rel_y": 0.44333333333333336
+                "rel_x": 0.9282814614343706,
+                "rel_y": 0.06859205776173286
             },
-            "reset_policy": {
-                "auto_reset_period": -1,
-                "need_reset": true,
-                "reset_type": "Range_Window",
-                "reset_wait_interval": 8
-            },
-            "sensitivity": 100,
-            "staring_range": {
-                "rel_height": 0.5,
-                "rel_width": 0.5
-            },
-            "type": "RightStickEye"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.148125,
-                    "rel_y": 0.7722222222222223
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "Left_Stick",
-                "virtual_key": 2147483647
-            },
-            "rel_radius": 0.055,
-            "rel_work_position": {
-                "rel_x": 0.148125,
-                "rel_y": 0.7722222222222223
-            },
-            "type": "LeftStickWalk"
+            "type": "Click"
         },
         {
             "bunch_click_continue_number": 20,
@@ -94,39 +58,226 @@
             "type": "BunchClick"
         },
         {
-            "act_as_line": true,
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_ULTIMATEEXA_SPACE3",
+                "description": "EXA_COMBO",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8700947225981055,
-                    "rel_y": 0.6329723225030085
+                    "rel_x": 0.7692828146143437,
+                    "rel_y": 0.7340553549939831
                 },
                 "visibility": true
             },
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "LT+B",
+                "text": "↑",
                 "virtual_key": 2147483647
             },
-            "rel_all_points_pos": "0.0121786,0.251504;0.0121786,0.250301;0.0121786,0.247894;0.0128552,0.243081;0.0142084,0.234657;0.014885,0.220217;0.0155616,0.202166;0.0155616,0.178099;0.0135318,0.122744;0.00541272,0.0445247;0.00202977,0.0192539;0,0;0,0;",
-            "rel_end_pos": {
-                "rel_x": 0,
-                "rel_y": 0
+            "rel_work_position": {
+                "rel_x": 0.7692828146143437,
+                "rel_y": 0.7340553549939831
             },
-            "rel_start_pos": {
-                "rel_x": 0.0121786,
-                "rel_y": 0.251504
+            "type": "BunchClick"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_COMBO",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8531799729364006,
+                    "rel_y": 0.6859205776173285
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "→",
+                "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8700947225981055,
-                "rel_y": 0.6329723225030085
+                "rel_x": 0.8531799729364006,
+                "rel_y": 0.6859205776173285
             },
-            "start_wait_time": 0,
-            "type": "Curve"
+            "type": "BunchClick"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_INTERACT",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.6792279411764706,
+                    "rel_y": 0.599673202614379
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RA",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.6792279411764706,
+                "rel_y": 0.599673202614379
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_ITEM_BAR",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.0950580396264868,
+                    "rel_y": 0.7695186522262335
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "LA",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.0950580396264868,
+                "rel_y": 0.7695186522262335
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_OBSCURAN_MANEUVER",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.20056232427366447,
+                    "rel_y": 0.8166666666666667
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "LB",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.20056232427366447,
+                "rel_y": 0.8166666666666667
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_SKILLEXA_SPACE1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7607492343850155,
+                    "rel_y": 0.9035591791848634
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "X",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.7607492343850155,
+                "rel_y": 0.9035591791848634
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_SKILLEXA_SPACE2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8035871139282575,
+                    "rel_y": 0.7321308652992424
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "Y",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.8035871139282575,
+                "rel_y": 0.7321308652992424
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_SKILLEXA_SPACE3",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8978349120433018,
+                    "rel_y": 0.6787003610108304
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "B",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.8978349120433018,
+                "rel_y": 0.6787003610108304
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_TRAVELLING_STRIKE",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.850625,
+                    "rel_y": 0.85
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "A",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.850625,
+                "rel_y": 0.85
+            },
+            "type": "Click"
         },
         {
             "act_as_line": true,
@@ -199,76 +350,39 @@
             "type": "Curve"
         },
         {
+            "act_as_line": true,
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_SKILLEXA_SPACE3",
+                "description": "EXA_ULTIMATEEXA_SPACE3",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8978349120433018,
-                    "rel_y": 0.6787003610108304
+                    "rel_x": 0.8700947225981055,
+                    "rel_y": 0.6329723225030085
                 },
                 "visibility": true
             },
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "B",
+                "text": "LT+B",
                 "virtual_key": 2147483647
             },
-            "rel_work_position": {
-                "rel_x": 0.8978349120433018,
-                "rel_y": 0.6787003610108304
+            "rel_all_points_pos": "0.0121786,0.251504;0.0121786,0.250301;0.0121786,0.247894;0.0128552,0.243081;0.0142084,0.234657;0.014885,0.220217;0.0155616,0.202166;0.0155616,0.178099;0.0135318,0.122744;0.00541272,0.0445247;0.00202977,0.0192539;0,0;0,0;",
+            "rel_end_pos": {
+                "rel_x": 0,
+                "rel_y": 0
             },
-            "type": "Click"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_ITEM_BAR",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.0950580396264868,
-                    "rel_y": 0.7695186522262335
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "LA",
-                "virtual_key": 2147483647
+            "rel_start_pos": {
+                "rel_x": 0.0121786,
+                "rel_y": 0.251504
             },
             "rel_work_position": {
-                "rel_x": 0.0950580396264868,
-                "rel_y": 0.7695186522262335
+                "rel_x": 0.8700947225981055,
+                "rel_y": 0.6329723225030085
             },
-            "type": "Click"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_OBSCURAN_MANEUVER",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.20056232427366447,
-                    "rel_y": 0.8166666666666667
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "LB",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.20056232427366447,
-                "rel_y": 0.8166666666666667
-            },
-            "type": "Click"
+            "start_wait_time": 0,
+            "type": "Curve"
         },
         {
             "editor_icon_scale": 1,
@@ -298,177 +412,62 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_INTERACT",
+                "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.6792279411764706,
-                    "rel_y": 0.599673202614379
+                    "rel_x": 0.148125,
+                    "rel_y": 0.7722222222222223
                 },
                 "visibility": true
             },
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "RA",
+                "text": "Left_Stick",
                 "virtual_key": 2147483647
             },
+            "rel_radius": 0.055,
             "rel_work_position": {
-                "rel_x": 0.6792279411764706,
-                "rel_y": 0.599673202614379
+                "rel_x": 0.148125,
+                "rel_y": 0.7722222222222223
             },
-            "type": "Click"
+            "type": "LeftStickWalk"
         },
         {
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_SKILLEXA_SPACE1",
+                "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7607492343850155,
-                    "rel_y": 0.9035591791848634
+                    "rel_x": 0.605625,
+                    "rel_y": 0.44333333333333336
                 },
                 "visibility": true
             },
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "X",
+                "text": "Right_Stick",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7607492343850155,
-                "rel_y": 0.9035591791848634
+                "rel_x": 0.605625,
+                "rel_y": 0.44333333333333336
             },
-            "type": "Click"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_SKILLEXA_SPACE2",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.8035871139282575,
-                    "rel_y": 0.7321308652992424
-                },
-                "visibility": true
+            "reset_policy": {
+                "auto_reset_period": -1,
+                "need_reset": true,
+                "reset_type": "Range_Window",
+                "reset_wait_interval": 8
             },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "Y",
-                "virtual_key": 2147483647
+            "sensitivity": 100,
+            "staring_range": {
+                "rel_height": 0.5,
+                "rel_width": 0.5
             },
-            "rel_work_position": {
-                "rel_x": 0.8035871139282575,
-                "rel_y": 0.7321308652992424
-            },
-            "type": "Click"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_CHARACTER_SCREEN/EXA_SKIP_TURN",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.9282814614343706,
-                    "rel_y": 0.06859205776173286
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "Start",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.9282814614343706,
-                "rel_y": 0.06859205776173286
-            },
-            "type": "Click"
-        },
-        {
-            "bunch_click_continue_number": 20,
-            "bunch_click_one_off_number": 20,
-            "bunch_click_type": "Continue",
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_COMBO",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.7692828146143437,
-                    "rel_y": 0.7340553549939831
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "↑",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.7692828146143437,
-                "rel_y": 0.7340553549939831
-            },
-            "type": "BunchClick"
-        },
-        {
-            "bunch_click_continue_number": 20,
-            "bunch_click_one_off_number": 20,
-            "bunch_click_type": "Continue",
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_COMBO",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.8531799729364006,
-                    "rel_y": 0.6859205776173285
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "→",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.8531799729364006,
-                "rel_y": 0.6859205776173285
-            },
-            "type": "BunchClick"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_TRAVELLING_STRIKE",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.850625,
-                    "rel_y": 0.85
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "A",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.850625,
-                "rel_y": 0.85
-            },
-            "type": "Click"
+            "type": "RightStickEye"
         }
     ],
-    "param": {
-    }
+    "param": {}
 }
