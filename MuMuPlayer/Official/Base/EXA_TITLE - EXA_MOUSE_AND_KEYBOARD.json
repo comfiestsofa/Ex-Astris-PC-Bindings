@@ -32,7 +32,6 @@
             },
             "press_actions": [
                 "exit_staring",
-                "enter_staring",
                 "sleep:10",
                 "click_rel:(0.072360,0.045191)",
                 "click_rel:(0.071708,0.872538)"
@@ -206,18 +205,11 @@
                 "text": "F",
                 "virtual_key": 70
             },
-            "press_actions": [
-                "exit_staring",
-                "enter_staring",
-                "sleep:10",
-                "click_rel:(0.670143,0.603708)"
-            ],
             "rel_work_position": {
                 "rel_x": 0.6714471968709258,
                 "rel_y": 0.6037079953650057
             },
-            "release_actions": [],
-            "type": "Macro"
+            "type": "Click"
         },
         {
             "editor_icon_scale": 1,
@@ -237,18 +229,11 @@
                 "text": "G",
                 "virtual_key": 71
             },
-            "press_actions": [
-                "exit_staring",
-                "enter_staring",
-                "sleep:10",
-                "click_rel:(0.672099,0.703360)"
-            ],
             "rel_work_position": {
                 "rel_x": 0.6720990873533247,
                 "rel_y": 0.7033603707995365
             },
-            "release_actions": [],
-            "type": "Macro"
+            "type": "Click"
         },
         {
             "editor_icon_scale": 1,
