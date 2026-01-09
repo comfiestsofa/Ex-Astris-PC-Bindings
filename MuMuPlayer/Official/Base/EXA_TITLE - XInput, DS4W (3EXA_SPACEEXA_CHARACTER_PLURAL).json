@@ -27,7 +27,6 @@
             },
             "press_actions": [
                 "exit_staring",
-                "enter_staring",
                 "sleep:10",
                 "click_rel:(0.072360,0.045191)",
                 "click_rel:(0.071708,0.872538)"
