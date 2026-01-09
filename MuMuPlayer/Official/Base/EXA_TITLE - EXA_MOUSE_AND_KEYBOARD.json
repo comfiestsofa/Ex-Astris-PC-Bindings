@@ -14,7 +14,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "熵核技能3",
+                "description": "EXA_ENTROPITHEXA_SPACE3",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.27444589308996087,
@@ -38,7 +38,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "熵核技能2",
+                "description": "EXA_ENTROPITHEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.20730117340286833,
@@ -62,7 +62,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "熵核技能1",
+                "description": "EXA_ENTROPITHEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.14146023468057367,
@@ -86,7 +86,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "道具栏",
+                "description": "EXA_ITEM_BAR",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.09452411994784876,
@@ -117,7 +117,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "交互2",
+                "description": "EXA_INTERACTEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6720990873533247,
@@ -150,7 +150,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "交互1",
+                "description": "EXA_INTERACTEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6714471968709257,
@@ -183,7 +183,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "呼出/隐藏鼠标",
+                "description": "EXA_SHOW_HIDE_MOUSE",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6793400286944046,
@@ -214,7 +214,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "战斗详情",
+                "description": "EXA_COMBAT_DETAILS",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.16588566073102157,
@@ -241,7 +241,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "技能3",
+                "description": "EXA_SKILLEXA_SPACE3",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8505724110068048,
@@ -268,7 +268,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "技能2",
+                "description": "EXA_SKILLEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7738460479911362,
@@ -292,7 +292,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "长按跳过",
+                "description": "EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.9282814614343705,
@@ -429,7 +429,7 @@
             },
             "icon": {
                 "background_color": "00000066",
-                "description": "场景攻击",
+                "description": "EXA_TRAVELLING_STRIKE",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8520778046334205,
@@ -467,7 +467,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "技能切换",
+                "description": "EXA_WAVE_PARTICLE_SWITCH",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.9270175438596491,
@@ -494,7 +494,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "技能1",
+                "description": "EXA_SKILLEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7253044654939107,
@@ -521,7 +521,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "精准格挡",
+                "description": "EXA_OBSCURAN_MANEUVER",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.19887955182072828,
@@ -545,7 +545,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "返回/任务",
+                "description": "EXA_BACK/EXA_MISSIONS",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.07170795306388526,
@@ -579,7 +579,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "角色大招1",
+                "description": "EXA_ULTIMATEEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6877444589308996,
@@ -615,7 +615,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "角色大招2",
+                "description": "EXA_ULTIMATEEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7451108213820078,
@@ -651,7 +651,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "角色大招3",
+                "description": "EXA_ULTIMATEEXA_SPACE3",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8239895697522817,
@@ -690,7 +690,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "浮空追击（雁）",
+                "description": "EXA_QTE (EXA_YAN)",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8155149934810951,
@@ -714,7 +714,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "菜单",
+                "description": "EXA_MENU",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.9178617992177314,

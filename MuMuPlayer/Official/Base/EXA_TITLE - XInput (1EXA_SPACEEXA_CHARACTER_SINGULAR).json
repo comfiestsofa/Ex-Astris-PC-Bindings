@@ -73,7 +73,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "长按连击",
+                "description": "EXA_COMBO",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7692828146143437,
@@ -97,7 +97,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "跳过回合",
+                "description": "EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.9282814614343706,
@@ -121,7 +121,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "技能2",
+                "description": "EXA_SKILL",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8035871139282575,
@@ -145,7 +145,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "交互",
+                "description": "EXA_INTERACT",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6792279411764706,
@@ -169,7 +169,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "技能切换",
+                "description": "EXA_WAVE_PARTICLE_SWITCH",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.9270175438596492,
@@ -193,7 +193,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "精准格挡",
+                "description": "EXA_OBSCURAN_MANEUVER",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.20056232427366447,
@@ -217,7 +217,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "道具栏",
+                "description": "EXA_ITEM_BAR",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.09037200401261615,
@@ -242,7 +242,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "终结技2",
+                "description": "EXA_ULTIMATE",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7604871447902571,
@@ -276,7 +276,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "场景攻击",
+                "description": "EXA_TRAVELLING_STRIKE",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.85125,
