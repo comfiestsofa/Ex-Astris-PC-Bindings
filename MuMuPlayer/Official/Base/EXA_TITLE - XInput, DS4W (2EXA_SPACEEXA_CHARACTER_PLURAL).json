@@ -64,6 +64,30 @@
             "type": "Click"
         },
         {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_COMBAT_DETAILS",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.16588566073102154,
+                    "rel_y": 0.07
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RT+←",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.16588566073102154,
+                "rel_y": 0.07
+            },
+            "type": "Click"
+        },
+        {
             "bunch_click_continue_number": 20,
             "bunch_click_one_off_number": 20,
             "bunch_click_type": "Continue",
