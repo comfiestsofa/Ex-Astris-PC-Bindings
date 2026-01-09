@@ -11,6 +11,38 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
+                "description": "EXA_BACK/EXA_MISSIONS",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.07170795306388526,
+                    "rel_y": 0.04866743916570104
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "Back",
+                "virtual_key": 2147483647
+            },
+            "press_actions": [
+                "exit_staring",
+                "enter_staring",
+                "sleep:10",
+                "click_rel:(0.072360,0.045191)",
+                "click_rel:(0.071708,0.872538)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.07170795306388526,
+                "rel_y": 0.04866743916570104
+            },
+            "release_actions": [],
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
                 "description": "EXA_CHARACTER_SCREEN/EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
