@@ -48,6 +48,30 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
+                "description": "EXA_BAG",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.918778801843318,
+                    "rel_y": 0.14227226202661208
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 48,
+                "text": "B",
+                "virtual_key": 66
+            },
+            "rel_work_position": {
+                "rel_x": 0.918778801843318,
+                "rel_y": 0.14227226202661208
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
                 "description": "EXA_CHARACTER_SCREEN/EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
