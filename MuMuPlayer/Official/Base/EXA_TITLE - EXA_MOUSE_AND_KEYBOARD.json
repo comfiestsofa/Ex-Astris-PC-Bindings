@@ -2,10 +2,12 @@
     "info": {
         "background_color": "000000FF",
         "is_joystick": false,
+        "response_cursor_point_icon": false,
         "transparent_ESC": false,
         "transparent_keyboard": true,
         "transparent_mouse": "Mouse_No_Transparent",
         "transparent_mouse_windows_raw_move_period": 0,
+        "transparent_mouse_windows_raw_move_sensitivity": 1,
         "transparent_wheel": false,
         "visibility": true
     },
@@ -73,7 +75,7 @@
                 "description": "EXA_COMBAT_DETAILS",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.16588566073102157,
+                    "rel_x": 0.16588566073102154,
                     "rel_y": 0.07
                 },
                 "visibility": true
@@ -85,7 +87,7 @@
                 "virtual_key": 67
             },
             "rel_work_position": {
-                "rel_x": 0.16588566073102157,
+                "rel_x": 0.16588566073102154,
                 "rel_y": 0.07
             },
             "type": "Click"
@@ -121,7 +123,7 @@
                 "description": "EXA_ENTROPITHEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.20730117340286833,
+                    "rel_x": 0.20730117340286836,
                     "rel_y": 0.9154113557358053
                 },
                 "visibility": true
@@ -133,7 +135,7 @@
                 "virtual_key": 69
             },
             "rel_work_position": {
-                "rel_x": 0.20730117340286833,
+                "rel_x": 0.20730117340286836,
                 "rel_y": 0.9154113557358053
             },
             "type": "Click"
@@ -169,7 +171,7 @@
                 "description": "EXA_INTERACTEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.6714471968709257,
+                    "rel_x": 0.6714471968709258,
                     "rel_y": 0.6037079953650057
                 },
                 "visibility": true
@@ -187,7 +189,7 @@
                 "click_rel:(0.670143,0.603708)"
             ],
             "rel_work_position": {
-                "rel_x": 0.6714471968709257,
+                "rel_x": 0.6714471968709258,
                 "rel_y": 0.6037079953650057
             },
             "release_actions": [],
@@ -456,6 +458,9 @@
                 },
                 "visibility": true
             },
+            "input_policy": {
+                "interval": 8
+            },
             "key": {
                 "device": "mouse",
                 "scan_code": 1,
@@ -620,6 +625,9 @@
                 },
                 "visibility": true
             },
+            "input_policy": {
+                "interval": 8
+            },
             "key": {
                 "device": "keyboard",
                 "scan_code": 29,
@@ -651,7 +659,7 @@
                 "text": "S",
                 "virtual_key": 83
             },
-            "editor_icon_scale": 1.4099264705882353,
+            "editor_icon_scale": 1.5955882352941175,
             "first_point_policy": {
                 "handle_type": "Move",
                 "idle_before_first_press": 0,
@@ -687,7 +695,7 @@
                 "text": "A",
                 "virtual_key": 65
             },
-            "rel_radius": 0.08088235294117647,
+            "rel_radius": 0.08088235294117646,
             "rel_work_position": {
                 "rel_x": 0.14335764383637206,
                 "rel_y": 0.7467404506210329
@@ -708,7 +716,13 @@
                 "distance": 0.01,
                 "enable": false,
                 "period": 8,
-                "steps": 3
+                "steps": 3,
+                "x_policy": "Default",
+                "x_policy_intercept_phaseshift": 0,
+                "x_policy_slope_period": 1,
+                "y_policy": "Default",
+                "y_policy_intercept_phaseshift": 0,
+                "y_policy_slope_period": 1
             },
             "top_key": {
                 "device": "keyboard",
@@ -720,11 +734,24 @@
         }
     ],
     "param": {
+        "transparent_joystick_policy": {
+            "protocol_version": 0
+        },
+        "transparent_wheel_policy": {
+            "protocol_version": 0,
+            "sensitivity": 1
+        },
+        "virtual_joystick": {
+            "enable": false
+        },
         "wheel_policy": {
+            "small_point_move_first": false,
             "wheel_step_distance": 0.01,
+            "zoom_degree": 45,
             "zoom_first_interval": 16,
             "zoom_last_idle": 0,
             "zoom_margin": 20,
+            "zoom_operation_shortcut_mode": false,
             "zoom_period": 16,
             "zoom_step_distance": 0.00625,
             "zoom_steps": 8

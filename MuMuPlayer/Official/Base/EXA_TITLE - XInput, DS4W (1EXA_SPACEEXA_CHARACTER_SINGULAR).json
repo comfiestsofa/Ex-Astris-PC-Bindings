@@ -2,6 +2,7 @@
     "info": {
         "background_color": "000000FF",
         "is_joystick": true,
+        "response_cursor_point_icon": false,
         "transparent_joystick": true,
         "visibility": true
     },
@@ -112,7 +113,7 @@
                 "description": "EXA_OBSCURAN_MANEUVER",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.20056232427366447,
+                    "rel_x": 0.2005623242736645,
                     "rel_y": 0.8166666666666667
                 },
                 "visibility": true
@@ -124,7 +125,7 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.20056232427366447,
+                "rel_x": 0.2005623242736645,
                 "rel_y": 0.8166666666666667
             },
             "type": "Click"
@@ -237,7 +238,7 @@
             "type": "Click"
         },
         {
-            "editor_icon_scale": 1,
+            "editor_icon_scale": 1.085,
             "icon": {
                 "background_color": "00000066",
                 "description": "",
@@ -254,10 +255,20 @@
                 "text": "Left_Stick",
                 "virtual_key": 2147483647
             },
-            "rel_radius": 0.055,
+            "rel_radius": 0.05499999999999999,
             "rel_work_position": {
                 "rel_x": 0.144375,
                 "rel_y": 0.7544444444444445
+            },
+            "start_policy": {
+                "distance_ratio": 0.1,
+                "enable": false,
+                "response_time": 20
+            },
+            "stop_policy": {
+                "delay_time": 60,
+                "enable": false,
+                "response_time": 20
             },
             "type": "LeftStickWalk"
         },
@@ -297,5 +308,9 @@
             "type": "RightStickEye"
         }
     ],
-    "param": {}
+    "param": {
+        "transparent_joystick_policy": {
+            "protocol_version": 0
+        }
+    }
 }
