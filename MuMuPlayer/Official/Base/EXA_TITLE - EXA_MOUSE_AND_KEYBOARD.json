@@ -659,7 +659,7 @@
                 "text": "S",
                 "virtual_key": 83
             },
-            "editor_icon_scale": 1.5955882352941175,
+            "editor_icon_scale": 2.3132434120085126,
             "first_point_policy": {
                 "handle_type": "Move",
                 "idle_before_first_press": 0,
@@ -677,7 +677,7 @@
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.14335764383637206,
+                    "rel_x": 0.1450857544354504,
                     "rel_y": 0.7467404506210329
                 },
                 "visibility": true
@@ -695,9 +695,9 @@
                 "text": "A",
                 "virtual_key": 65
             },
-            "rel_radius": 0.08088235294117646,
+            "rel_radius": 0.11726118678384166,
             "rel_work_position": {
-                "rel_x": 0.14335764383637206,
+                "rel_x": 0.1450857544354504,
                 "rel_y": 0.7467404506210329
             },
             "right_key": {

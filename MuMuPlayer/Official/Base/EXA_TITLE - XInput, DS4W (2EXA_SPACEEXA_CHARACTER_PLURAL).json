@@ -324,14 +324,14 @@
             "type": "Click"
         },
         {
-            "editor_icon_scale": 1.085,
+            "editor_icon_scale": 2.3802398989899003,
             "icon": {
                 "background_color": "00000066",
                 "description": "",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.150625,
-                    "rel_y": 0.7733333333333333
+                    "rel_x": 0.14524481566820274,
+                    "rel_y": 0.7507278517002162
                 },
                 "visibility": true
             },
@@ -341,10 +341,10 @@
                 "text": "Left_Stick",
                 "virtual_key": 2147483647
             },
-            "rel_radius": 0.05499999999999999,
+            "rel_radius": 0.12065732206861246,
             "rel_work_position": {
-                "rel_x": 0.150625,
-                "rel_y": 0.7733333333333333
+                "rel_x": 0.14524481566820274,
+                "rel_y": 0.7507278517002162
             },
             "start_policy": {
                 "distance_ratio": 0.1,
