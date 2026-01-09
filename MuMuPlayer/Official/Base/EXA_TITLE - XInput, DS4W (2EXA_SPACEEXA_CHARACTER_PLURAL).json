@@ -37,7 +37,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_COMBO",
+                "description": "EXA_COMBOEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8067710995253088,
@@ -64,7 +64,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_COMBO",
+                "description": "EXA_COMBOEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7215556370028142,
@@ -233,7 +233,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_ULTIMATE",
+                "description": "EXA_ULTIMATEEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7422680412371134,
@@ -268,7 +268,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_ULTIMATE",
+                "description": "EXA_ULTIMATEEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8388003748828491,

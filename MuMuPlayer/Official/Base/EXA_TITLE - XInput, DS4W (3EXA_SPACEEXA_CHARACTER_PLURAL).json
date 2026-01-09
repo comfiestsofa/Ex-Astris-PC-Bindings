@@ -37,7 +37,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_COMBO",
+                "description": "EXA_COMBOEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7253044654939107,
@@ -64,7 +64,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_COMBO",
+                "description": "EXA_COMBOEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7692828146143437,
@@ -91,7 +91,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_COMBO",
+                "description": "EXA_COMBOEXA_SPACE3",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8531799729364006,
