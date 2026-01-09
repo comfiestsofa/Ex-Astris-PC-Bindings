@@ -370,7 +370,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_SKIP_TURN",
+                "description": "EXA_CHARACTER_SCREEN/EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.9282814614343706,
