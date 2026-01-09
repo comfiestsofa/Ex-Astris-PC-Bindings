@@ -89,8 +89,8 @@
                 "description": "EXA_ITEM_BAR",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.09037200401261615,
-                    "rel_y": 0.7711853188929001
+                    "rel_x": 0.09505803962648679,
+                    "rel_y": 0.7695186522262335
                 },
                 "visibility": true
             },
@@ -101,8 +101,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.09037200401261615,
-                "rel_y": 0.7711853188929001
+                "rel_x": 0.09505803962648679,
+                "rel_y": 0.7695186522262335
             },
             "type": "Click"
         },
@@ -161,8 +161,8 @@
                 "description": "EXA_TRAVELLING_STRIKE",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.85125,
-                    "rel_y": 0.8455555555555555
+                    "rel_x": 0.850625,
+                    "rel_y": 0.85
                 },
                 "visibility": true
             },
@@ -173,8 +173,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.85125,
-                "rel_y": 0.8455555555555555
+                "rel_x": 0.850625,
+                "rel_y": 0.85
             },
             "type": "Click"
         },

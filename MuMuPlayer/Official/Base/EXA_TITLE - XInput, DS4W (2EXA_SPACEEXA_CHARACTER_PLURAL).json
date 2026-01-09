@@ -117,7 +117,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.09505803962648679,
-                    "rel_y": 0.7778519855595668
+                    "rel_y": 0.7695186522262335
                 },
                 "visibility": true
             },
@@ -129,7 +129,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.09505803962648679,
-                "rel_y": 0.7778519855595668
+                "rel_y": 0.7695186522262335
             },
             "type": "Click"
         },
@@ -212,8 +212,8 @@
                 "description": "EXA_TRAVELLING_STRIKE",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8475,
-                    "rel_y": 0.8477777777777777
+                    "rel_x": 0.850625,
+                    "rel_y": 0.85
                 },
                 "visibility": true
             },
@@ -224,8 +224,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8475,
-                "rel_y": 0.8477777777777777
+                "rel_x": 0.850625,
+                "rel_y": 0.85
             },
             "type": "Click"
         },
