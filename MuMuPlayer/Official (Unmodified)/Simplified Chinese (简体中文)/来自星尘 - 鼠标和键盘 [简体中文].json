@@ -1,0 +1,749 @@
+{
+    "info": {
+        "background_color": "000000FF",
+        "is_joystick": false,
+        "transparent_ESC": false,
+        "transparent_keyboard": true,
+        "transparent_mouse": "Mouse_No_Transparent",
+        "transparent_mouse_windows_raw_move_period": 0,
+        "transparent_wheel": false,
+        "visibility": true
+    },
+    "keymaps": [
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "熵核技能3",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.27444589308996087,
+                    "rel_y": 0.9177288528389339
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 19,
+                "text": "R",
+                "virtual_key": 82
+            },
+            "rel_work_position": {
+                "rel_x": 0.27444589308996087,
+                "rel_y": 0.9177288528389339
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "熵核技能2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.20730117340286833,
+                    "rel_y": 0.9154113557358053
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 18,
+                "text": "E",
+                "virtual_key": 69
+            },
+            "rel_work_position": {
+                "rel_x": 0.20730117340286833,
+                "rel_y": 0.9154113557358053
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "熵核技能1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.14146023468057367,
+                    "rel_y": 0.9142526071842411
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 16,
+                "text": "Q",
+                "virtual_key": 81
+            },
+            "rel_work_position": {
+                "rel_x": 0.14146023468057367,
+                "rel_y": 0.9142526071842411
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "道具栏",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.09452411994784876,
+                    "rel_y": 0.7717265353418308
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 15,
+                "text": "Tab",
+                "virtual_key": 9
+            },
+            "press_actions": [
+                "click_rel:(0.093220,0.772885)",
+                "click_rel:(0.893090,0.140209)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.09452411994784876,
+                "rel_y": 0.7717265353418308
+            },
+            "release_actions": [
+
+            ],
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "交互2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.6720990873533247,
+                    "rel_y": 0.7033603707995365
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 34,
+                "text": "G",
+                "virtual_key": 71
+            },
+            "press_actions": [
+                "exit_staring",
+                "enter_staring",
+                "sleep:10",
+                "click_rel:(0.672099,0.703360)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.6720990873533247,
+                "rel_y": 0.7033603707995365
+            },
+            "release_actions": [
+
+            ],
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "交互1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.6714471968709257,
+                    "rel_y": 0.6037079953650057
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 33,
+                "text": "F",
+                "virtual_key": 70
+            },
+            "press_actions": [
+                "exit_staring",
+                "enter_staring",
+                "sleep:10",
+                "click_rel:(0.670143,0.603708)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.6714471968709257,
+                "rel_y": 0.6037079953650057
+            },
+            "release_actions": [
+
+            ],
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "呼出/隐藏鼠标",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.6793400286944046,
+                    "rel_y": 0.49744897959183676
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "mouse",
+                "scan_code": 2,
+                "text": "right_mouse",
+                "virtual_key": 2
+            },
+            "press_actions": [
+                "keyboard_press:29",
+                "keyboard_release:29"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.6793400286944046,
+                "rel_y": 0.49744897959183676
+            },
+            "release_actions": [
+
+            ],
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "战斗详情",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.16588566073102157,
+                    "rel_y": 0.07
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 46,
+                "text": "C",
+                "virtual_key": 67
+            },
+            "rel_work_position": {
+                "rel_x": 0.16588566073102157,
+                "rel_y": 0.07
+            },
+            "type": "Click"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "技能3",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8505724110068048,
+                    "rel_y": 0.6279831500391129
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 4,
+                "text": "3",
+                "virtual_key": 51
+            },
+            "rel_work_position": {
+                "rel_x": 0.8505724110068048,
+                "rel_y": 0.6279831500391129
+            },
+            "type": "BunchClick"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "技能2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7738460479911362,
+                    "rel_y": 0.7189916238236471
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 3,
+                "text": "2",
+                "virtual_key": 50
+            },
+            "rel_work_position": {
+                "rel_x": 0.7738460479911362,
+                "rel_y": 0.7189916238236471
+            },
+            "type": "BunchClick"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "长按跳过",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.9282814614343705,
+                    "rel_y": 0.06743330921016855
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 47,
+                "text": "V",
+                "virtual_key": 86
+            },
+            "rel_work_position": {
+                "rel_x": 0.9282814614343705,
+                "rel_y": 0.06743330921016855
+            },
+            "type": "Click"
+        },
+        {
+            "bottom_key": {
+                "device": "keyboard",
+                "scan_code": 31,
+                "text": "S",
+                "virtual_key": 83
+            },
+            "editor_icon_scale": 1.4099264705882353,
+            "first_point_policy": {
+                "handle_type": "Move",
+                "idle_before_first_press": 0,
+                "interval": 32,
+                "move_type": "Constant",
+                "no_press_first_center_point": false,
+                "period": 16,
+                "speed": 100,
+                "steps": 6,
+                "wait_for_second": 8
+            },
+            "hold_center_interval_after_release": 0,
+            "icon": {
+                "background_color": "00000066",
+                "description": "",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.14335764383637206,
+                    "rel_y": 0.7467404506210329
+                },
+                "visibility": true
+            },
+            "in_line_policy": "Just_Use_Last",
+            "key": {
+                "device": "",
+                "scan_code": 2147483647,
+                "text": "",
+                "virtual_key": 2147483647
+            },
+            "left_key": {
+                "device": "keyboard",
+                "scan_code": 30,
+                "text": "A",
+                "virtual_key": 65
+            },
+            "rel_radius": 0.08088235294117647,
+            "rel_work_position": {
+                "rel_x": 0.14335764383637206,
+                "rel_y": 0.7467404506210329
+            },
+            "right_key": {
+                "device": "keyboard",
+                "scan_code": 32,
+                "text": "D",
+                "virtual_key": 68
+            },
+            "subsequent_point_policy": {
+                "handle_type": "Click",
+                "period": 16,
+                "steps": 6
+            },
+            "target_point_input_compensatory_policy": {
+                "count": 3,
+                "distance": 0.01,
+                "enable": false,
+                "period": 8,
+                "steps": 3
+            },
+            "top_key": {
+                "device": "keyboard",
+                "scan_code": 17,
+                "text": "W",
+                "virtual_key": 87
+            },
+            "type": "Swipehold"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7242105263157895,
+                    "rel_y": 0.4656679151061175
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 29,
+                "text": "Ctrl",
+                "virtual_key": 17
+            },
+            "rel_work_position": {
+                "rel_x": 0.7242105263157895,
+                "rel_y": 0.4656679151061175
+            },
+            "reset_policy": {
+                "auto_reset_period": -1,
+                "need_reset": true,
+                "reset_type": "Range_Window",
+                "reset_wait_interval": 8
+            },
+            "sensitivity_x": 50,
+            "sensitivity_y": 50,
+            "staring_range": {
+                "rel_height": 0.5,
+                "rel_width": 0.5
+            },
+            "type": "Staring"
+        },
+        {
+            "editor_icon_scale": 1,
+            "fire_option": {
+                "fire_range_policy": "Fire_range_unlimited"
+            },
+            "icon": {
+                "background_color": "00000066",
+                "description": "场景攻击",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8520778046334205,
+                    "rel_y": 0.8452122347066165
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "mouse",
+                "scan_code": 1,
+                "text": "left_mouse",
+                "virtual_key": 1
+            },
+            "need_fire_and_drag": false,
+            "rel_work_position": {
+                "rel_x": 0.8520778046334205,
+                "rel_y": 0.8452122347066165
+            },
+            "swipehold_info": {
+                "invalid_zone_info": {
+                    "enable": false,
+                    "rel_radius_inside_invalid_zone": 0.005,
+                    "rel_radius_outside_invalid_zone": 0.01
+                },
+                "rel_position": {
+                    "rel_x": 0,
+                    "rel_y": 0
+                },
+                "rel_radius": 0.1,
+                "steps": 6
+            },
+            "type": "Fire"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "技能切换",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.9270175438596491,
+                    "rel_y": 0.43820224719101125
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 42,
+                "text": "Shift",
+                "virtual_key": 16
+            },
+            "rel_work_position": {
+                "rel_x": 0.9270175438596491,
+                "rel_y": 0.43820224719101125
+            },
+            "type": "Click"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "技能1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7253044654939107,
+                    "rel_y": 0.8469071453371874
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 2,
+                "text": "1",
+                "virtual_key": 49
+            },
+            "rel_work_position": {
+                "rel_x": 0.7253044654939107,
+                "rel_y": 0.8469071453371874
+            },
+            "type": "BunchClick"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "精准格挡",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.19887955182072828,
+                    "rel_y": 0.8305647840531563
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 57,
+                "text": "Space",
+                "virtual_key": 32
+            },
+            "rel_work_position": {
+                "rel_x": 0.19887955182072828,
+                "rel_y": 0.8305647840531563
+            },
+            "type": "BunchClick"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "返回/任务",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.07170795306388526,
+                    "rel_y": 0.04866743916570104
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 41,
+                "text": "`",
+                "virtual_key": 192
+            },
+            "press_actions": [
+                "exit_staring",
+                "enter_staring",
+                "sleep:10",
+                "click_rel:(0.072360,0.045191)",
+                "click_rel:(0.071708,0.872538)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.07170795306388526,
+                "rel_y": 0.04866743916570104
+            },
+            "release_actions": [
+
+            ],
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "角色大招1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.6877444589308996,
+                    "rel_y": 0.7844727694090382
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 56,
+                "text": "Alt",
+                "virtual_key": 18
+            },
+            "press_actions": [
+                "curve_rel:(0.861147,0.903824);(0.844850,0.899189);(0.825293,0.889919);(0.797262,0.878331);(0.772490,0.867903);(0.751630,0.857474);(0.726858,0.844728)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.6877444589308996,
+                "rel_y": 0.7844727694090382
+            },
+            "release_actions": [
+
+            ],
+            "second_key": {
+                "device": "keyboard",
+                "scan_code": 2,
+                "text": "1",
+                "virtual_key": 49
+            },
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "角色大招2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7451108213820078,
+                    "rel_y": 0.660486674391657
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 56,
+                "text": "Alt",
+                "virtual_key": 18
+            },
+            "press_actions": [
+                "curve_rel:(0.875489,0.888760);(0.857888,0.853998);(0.838331,0.814600);(0.821382,0.790267);(0.807040,0.769409);(0.788787,0.731170)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.7451108213820078,
+                "rel_y": 0.660486674391657
+            },
+            "release_actions": [
+
+            ],
+            "second_key": {
+                "device": "keyboard",
+                "scan_code": 3,
+                "text": "2",
+                "virtual_key": 50
+            },
+            "type": "Macro"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "角色大招3",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8239895697522817,
+                    "rel_y": 0.5712630359212051
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 56,
+                "text": "Alt",
+                "virtual_key": 18
+            },
+            "press_actions": [
+                "curve_rel:(0.872881,0.871379);(0.866362,0.813441);(0.865711,0.785632);(0.863755,0.747393);(0.861799,0.704519);(0.857236,0.668598);(0.850065,0.625724)"
+            ],
+            "rel_work_position": {
+                "rel_x": 0.8239895697522817,
+                "rel_y": 0.5712630359212051
+            },
+            "release_actions": [
+
+            ],
+            "second_key": {
+                "device": "keyboard",
+                "scan_code": 4,
+                "text": "3",
+                "virtual_key": 51
+            },
+            "type": "Macro"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "浮空追击（雁）",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8155149934810951,
+                    "rel_y": 0.5886442641946698
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 5,
+                "text": "4",
+                "virtual_key": 52
+            },
+            "rel_work_position": {
+                "rel_x": 0.8155149934810951,
+                "rel_y": 0.5886442641946698
+            },
+            "type": "BunchClick"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "菜单",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.9178617992177314,
+                    "rel_y": 0.21089223638470453
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 20,
+                "text": "T",
+                "virtual_key": 84
+            },
+            "rel_work_position": {
+                "rel_x": 0.9178617992177314,
+                "rel_y": 0.21089223638470453
+            },
+            "type": "Click"
+        }
+    ],
+    "param": {
+        "wheel_policy": {
+            "wheel_step_distance": 0.01,
+            "zoom_first_interval": 16,
+            "zoom_last_idle": 0,
+            "zoom_margin": 20,
+            "zoom_period": 16,
+            "zoom_step_distance": 0.00625,
+            "zoom_steps": 8
+        }
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "info": {
+        "background_color": "000000FF",
+        "is_joystick": true,
+        "transparent_joystick": true,
+        "visibility": true
+    },
+    "keymaps": [
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "场景攻击",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8475,
+                    "rel_y": 0.8477777777777777
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "A",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.8475,
+                "rel_y": 0.8477777777777777
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.150625,
+                    "rel_y": 0.7733333333333333
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "Left_Stick",
+                "virtual_key": 2147483647
+            },
+            "rel_radius": 0.055,
+            "rel_work_position": {
+                "rel_x": 0.150625,
+                "rel_y": 0.7733333333333333
+            },
+            "type": "LeftStickWalk"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "长按连击",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8067710995253088,
+                    "rel_y": 0.6673886883273163
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "↑",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.8067710995253088,
+                "rel_y": 0.6673886883273163
+            },
+            "type": "BunchClick"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "跳过回合",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.9282814614343706,
+                    "rel_y": 0.06859205776173286
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "Start",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.9282814614343706,
+                "rel_y": 0.06859205776173286
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "技能2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8401381917164487,
+                    "rel_y": 0.6671308652992425
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "Y",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.8401381917164487,
+                "rel_y": 0.6671308652992425
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "技能1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7598120272622413,
+                    "rel_y": 0.8118925125181969
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "X",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.7598120272622413,
+                "rel_y": 0.8118925125181969
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "交互",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.6792279411764706,
+                    "rel_y": 0.599673202614379
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RA",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.6792279411764706,
+                "rel_y": 0.599673202614379
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "技能切换",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.9270175438596492,
+                    "rel_y": 0.43820224719101125
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RT",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.9270175438596492,
+                "rel_y": 0.43820224719101125
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "精准格挡",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.20056232427366447,
+                    "rel_y": 0.8166666666666667
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "LB",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.20056232427366447,
+                "rel_y": 0.8166666666666667
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "道具栏",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.0950580396264868,
+                    "rel_y": 0.7778519855595668
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "LA",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.0950580396264868,
+                "rel_y": 0.7778519855595668
+            },
+            "type": "Click"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "长按连击",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7215556370028142,
+                    "rel_y": 0.8091937424789409
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "←",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.7215556370028142,
+                "rel_y": 0.8091937424789409
+            },
+            "type": "BunchClick"
+        },
+        {
+            "act_as_line": false,
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "终结技",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7422680412371134,
+                    "rel_y": 0.7466666666666667
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "LT+X",
+                "virtual_key": 2147483647
+            },
+            "rel_all_points_pos": "0.160262,0.158333;0.159325,0.158333;0.158388,0.158333;0.153702,0.155;0.149953,0.15;0.14433,0.143333;0.136832,0.135;0.112465,0.108333;0.0796626,0.0733333;0.0646673,0.0566667;0.0328022,0.025;0.0103093,0.00666667;0.00374883,0.00333333;0,0;0,0;",
+            "rel_end_pos": {
+                "rel_x": 0,
+                "rel_y": 0
+            },
+            "rel_start_pos": {
+                "rel_x": 0.160262,
+                "rel_y": 0.158333
+            },
+            "rel_work_position": {
+                "rel_x": 0.7422680412371134,
+                "rel_y": 0.7466666666666667
+            },
+            "start_wait_time": 0,
+            "type": "Curve"
+        },
+        {
+            "act_as_line": false,
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "终结技",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8388003748828491,
+                    "rel_y": 0.6116666666666667
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "LT+Y",
+                "virtual_key": 2147483647
+            },
+            "rel_all_points_pos": "0.0599813,0.273333;0.0599813,0.27;0.0581068,0.266667;0.0562324,0.256667;0.0534208,0.24;0.0459231,0.206667;0.0356139,0.163333;0.0290534,0.143333;0.0187441,0.106667;0.0103093,0.07;0.00749766,0.0533333;0.00281162,0.03;0.00187441,0.0166667;0.000937207,0.00333333;0,0;0,0;",
+            "rel_end_pos": {
+                "rel_x": 0,
+                "rel_y": 0
+            },
+            "rel_start_pos": {
+                "rel_x": 0.059981299999999994,
+                "rel_y": 0.273333
+            },
+            "rel_work_position": {
+                "rel_x": 0.8388003748828491,
+                "rel_y": 0.6116666666666667
+            },
+            "start_wait_time": 0,
+            "type": "Curve"
+        }
+    ],
+    "param": {
+    }
+}
