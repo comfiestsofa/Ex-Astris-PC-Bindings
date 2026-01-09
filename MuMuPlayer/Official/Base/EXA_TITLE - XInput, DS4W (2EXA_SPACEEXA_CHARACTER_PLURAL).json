@@ -37,33 +37,6 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_COMBOEXA_SPACE2",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.8067710995253088,
-                    "rel_y": 0.6673886883273163
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "↑",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.8067710995253088,
-                "rel_y": 0.6673886883273163
-            },
-            "type": "BunchClick"
-        },
-        {
-            "bunch_click_continue_number": 20,
-            "bunch_click_one_off_number": 20,
-            "bunch_click_type": "Continue",
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
                 "description": "EXA_COMBOEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
@@ -81,6 +54,33 @@
             "rel_work_position": {
                 "rel_x": 0.7215556370028142,
                 "rel_y": 0.8091937424789409
+            },
+            "type": "BunchClick"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_COMBOEXA_SPACE2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8067710995253088,
+                    "rel_y": 0.6673886883273163
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "↑",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.8067710995253088,
+                "rel_y": 0.6673886883273163
             },
             "type": "BunchClick"
         },
