@@ -404,6 +404,9 @@
             "type": "Click"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
@@ -425,7 +428,7 @@
                 "rel_x": 0.18904158694647558,
                 "rel_y": 0.7767485499829409
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
             "bunch_click_continue_number": 20,
