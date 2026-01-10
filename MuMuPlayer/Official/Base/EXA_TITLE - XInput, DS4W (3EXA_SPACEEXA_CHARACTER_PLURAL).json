@@ -318,8 +318,8 @@
                 "description": "EXA_INTERACTEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.6792279411764706,
-                    "rel_y": 0.599673202614379
+                    "rel_x": 0.6354491393331527,
+                    "rel_y": 0.6037673684280943
                 },
                 "visibility": true
             },
@@ -330,8 +330,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.6792279411764706,
-                "rel_y": 0.599673202614379
+                "rel_x": 0.6354491393331527,
+                "rel_y": 0.6037673684280943
             },
             "type": "Click"
         },
@@ -342,8 +342,8 @@
                 "description": "EXA_INTERACTEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.679147465437788,
-                    "rel_y": 0.7154554759467758
+                    "rel_x": 0.6354491393331527,
+                    "rel_y": 0.7033603707995365
                 },
                 "visibility": true
             },
@@ -354,8 +354,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.679147465437788,
-                "rel_y": 0.7154554759467758
+                "rel_x": 0.6354491393331527,
+                "rel_y": 0.7033603707995365
             },
             "type": "Click"
         },
