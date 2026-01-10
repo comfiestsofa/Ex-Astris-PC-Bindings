@@ -346,8 +346,8 @@
                 "description": "EXA_OBSCURAN_MANEUVER",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.19887955182072828,
-                    "rel_y": 0.8305647840531563
+                    "rel_x": 0.1930738450109917,
+                    "rel_y": 0.7880075059706584
                 },
                 "visibility": true
             },
@@ -358,8 +358,8 @@
                 "virtual_key": 32
             },
             "rel_work_position": {
-                "rel_x": 0.19887955182072828,
-                "rel_y": 0.8305647840531563
+                "rel_x": 0.1930738450109917,
+                "rel_y": 0.7880075059706584
             },
             "type": "BunchClick"
         },
@@ -510,8 +510,8 @@
                 "description": "EXA_TRAVELLING_STRIKE",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8520778046334205,
-                    "rel_y": 0.8452122347066165
+                    "rel_x": 0.8500489631336405,
+                    "rel_y": 0.8254350051177071
                 },
                 "visibility": true
             },
@@ -526,8 +526,8 @@
             },
             "need_fire_and_drag": false,
             "rel_work_position": {
-                "rel_x": 0.8520778046334205,
-                "rel_y": 0.8452122347066165
+                "rel_x": 0.8500489631336405,
+                "rel_y": 0.8254350051177071
             },
             "swipehold_info": {
                 "invalid_zone_info": {

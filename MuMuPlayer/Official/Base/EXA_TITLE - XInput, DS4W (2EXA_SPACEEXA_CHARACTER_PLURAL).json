@@ -120,8 +120,8 @@
                 "description": "EXA_COMBOEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7215556370028142,
-                    "rel_y": 0.8091937424789409
+                    "rel_x": 0.7157952683392199,
+                    "rel_y": 0.816358532652943
                 },
                 "visibility": true
             },
@@ -132,8 +132,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7215556370028142,
-                "rel_y": 0.8091937424789409
+                "rel_x": 0.7157952683392199,
+                "rel_y": 0.816358532652943
             },
             "type": "BunchClick"
         },
@@ -147,8 +147,8 @@
                 "description": "EXA_COMBOEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8067710995253087,
-                    "rel_y": 0.6673886883273165
+                    "rel_x": 0.7975545096635577,
+                    "rel_y": 0.6776241028616051
                 },
                 "visibility": true
             },
@@ -159,8 +159,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8067710995253087,
-                "rel_y": 0.6673886883273165
+                "rel_x": 0.7975545096635577,
+                "rel_y": 0.6776241028616051
             },
             "type": "BunchClick"
         },
@@ -387,8 +387,8 @@
                 "description": "EXA_OBSCURAN_MANEUVER",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.2005623242736645,
-                    "rel_y": 0.8166666666666667
+                    "rel_x": 0.1930738450109917,
+                    "rel_y": 0.7880075059706584
                 },
                 "visibility": true
             },
@@ -399,8 +399,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.2005623242736645,
-                "rel_y": 0.8166666666666667
+                "rel_x": 0.1930738450109917,
+                "rel_y": 0.7880075059706584
             },
             "type": "Click"
         },
@@ -411,8 +411,8 @@
                 "description": "EXA_SKILLEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7598120272622413,
-                    "rel_y": 0.8118925125181969
+                    "rel_x": 0.7667244696585547,
+                    "rel_y": 0.7914216834496196
                 },
                 "visibility": true
             },
@@ -423,8 +423,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7598120272622413,
-                "rel_y": 0.8118925125181969
+                "rel_x": 0.7667244696585547,
+                "rel_y": 0.7914216834496196
             },
             "type": "Click"
         },
@@ -435,8 +435,8 @@
                 "description": "EXA_SKILLEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8401381917164487,
-                    "rel_y": 0.6671308652992425
+                    "rel_x": 0.8476266709791216,
+                    "rel_y": 0.640518787510092
                 },
                 "visibility": true
             },
@@ -447,8 +447,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8401381917164487,
-                "rel_y": 0.6671308652992425
+                "rel_x": 0.8476266709791216,
+                "rel_y": 0.640518787510092
             },
             "type": "Click"
         },
@@ -459,8 +459,8 @@
                 "description": "EXA_TRAVELLING_STRIKE",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.850625,
-                    "rel_y": 0.85
+                    "rel_x": 0.8500489631336405,
+                    "rel_y": 0.8254350051177071
                 },
                 "visibility": true
             },
@@ -471,8 +471,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.850625,
-                "rel_y": 0.85
+                "rel_x": 0.8500489631336405,
+                "rel_y": 0.8254350051177071
             },
             "type": "Click"
         },
@@ -484,8 +484,8 @@
                 "description": "EXA_ULTIMATEEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7422680412371134,
-                    "rel_y": 0.7466666666666667
+                    "rel_x": 0.7399638937716757,
+                    "rel_y": 0.7354077106789492
                 },
                 "visibility": true
             },
@@ -505,8 +505,8 @@
                 "rel_y": 0.158333
             },
             "rel_work_position": {
-                "rel_x": 0.7422680412371134,
-                "rel_y": 0.7466666666666667
+                "rel_x": 0.7399638937716757,
+                "rel_y": 0.7354077106789492
             },
             "start_wait_time": 0,
             "type": "Curve"
@@ -519,8 +519,8 @@
                 "description": "EXA_ULTIMATEEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8388003748828491,
-                    "rel_y": 0.6116666666666667
+                    "rel_x": 0.8220953057584252,
+                    "rel_y": 0.5789133401569431
                 },
                 "visibility": true
             },
@@ -540,8 +540,8 @@
                 "rel_y": 0.273333
             },
             "rel_work_position": {
-                "rel_x": 0.8388003748828491,
-                "rel_y": 0.6116666666666667
+                "rel_x": 0.8220953057584252,
+                "rel_y": 0.5789133401569431
             },
             "start_wait_time": 0,
             "type": "Curve"
