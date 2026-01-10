@@ -523,7 +523,7 @@
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "RT+X",
+                "text": "LB+X",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
@@ -547,7 +547,7 @@
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "RT+Y",
+                "text": "LB+Y",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
@@ -571,7 +571,7 @@
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "RT+B",
+                "text": "LB+B",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
