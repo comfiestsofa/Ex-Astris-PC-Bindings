@@ -428,62 +428,17 @@
             "type": "Click"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_QTEEXA_SPACE1",
+                "description": "EXA_QTE",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.6826036866359447,
-                    "rel_y": 0.7963152507676561
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "RT+X",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.6826036866359447,
-                "rel_y": 0.7963152507676561
-            },
-            "type": "Click"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_QTEEXA_SPACE2",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.722926267281106,
-                    "rel_y": 0.6499488229273286
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "joystick",
-                "scan_code": 2147483647,
-                "text": "RT+Y",
-                "virtual_key": 2147483647
-            },
-            "rel_work_position": {
-                "rel_x": 0.722926267281106,
-                "rel_y": 0.6499488229273286
-            },
-            "type": "Click"
-        },
-        {
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_QTEEXA_SPACE3",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.815668202764977,
-                    "rel_y": 0.5762538382804504
+                    "rel_x": 0.8155149934810951,
+                    "rel_y": 0.5886442641946698
                 },
                 "visibility": true
             },
@@ -494,10 +449,10 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.815668202764977,
-                "rel_y": 0.5762538382804504
+                "rel_x": 0.8155149934810951,
+                "rel_y": 0.5886442641946698
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
             "bunch_click_continue_number": 20,
