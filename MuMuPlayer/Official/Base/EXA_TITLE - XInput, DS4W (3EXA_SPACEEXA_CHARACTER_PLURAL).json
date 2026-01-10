@@ -14,8 +14,8 @@
                 "description": "EXA_BACK/EXA_MISSIONS",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.07170795306388526,
-                    "rel_y": 0.04866743916570104
+                    "rel_x": 0.06997984246480692,
+                    "rel_y": 0.05173806352598764
                 },
                 "visibility": true
             },
@@ -32,8 +32,8 @@
                 "click_rel:(0.071708,0.872538)"
             ],
             "rel_work_position": {
-                "rel_x": 0.07170795306388526,
-                "rel_y": 0.04866743916570104
+                "rel_x": 0.06997984246480692,
+                "rel_y": 0.05173806352598764
             },
             "release_actions": [],
             "type": "Macro"
@@ -45,7 +45,7 @@
                 "description": "EXA_BAG",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.918778801843318,
+                    "rel_x": 0.9268433179723502,
                     "rel_y": 0.14227226202661208
                 },
                 "visibility": true
@@ -57,7 +57,7 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.918778801843318,
+                "rel_x": 0.9268433179723502,
                 "rel_y": 0.14227226202661208
             },
             "type": "Click"
@@ -69,7 +69,7 @@
                 "description": "EXA_CHARACTER_SCREEN/EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.9282814614343706,
+                    "rel_x": 0.9268433179723502,
                     "rel_y": 0.06859205776173286
                 },
                 "visibility": true
@@ -81,7 +81,7 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.9282814614343706,
+                "rel_x": 0.9268433179723502,
                 "rel_y": 0.06859205776173286
             },
             "type": "Click"
@@ -94,7 +94,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.16588566073102154,
-                    "rel_y": 0.07
+                    "rel_y": 0.06692937563971339
                 },
                 "visibility": true
             },
@@ -106,7 +106,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.16588566073102154,
-                "rel_y": 0.07
+                "rel_y": 0.06692937563971339
             },
             "type": "Click"
         },
@@ -438,8 +438,8 @@
                 "description": "EXA_ITEM_BAR",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.09452411994784876,
-                    "rel_y": 0.7717265353418308
+                    "rel_x": 0.09164393561605151,
+                    "rel_y": 0.7676323695281152
                 },
                 "visibility": true
             },
@@ -454,8 +454,8 @@
                 "click_rel:(0.893090,0.140209)"
             ],
             "rel_work_position": {
-                "rel_x": 0.09452411994784876,
-                "rel_y": 0.7717265353418308
+                "rel_x": 0.09164393561605151,
+                "rel_y": 0.7676323695281152
             },
             "release_actions": [],
             "type": "Macro"
@@ -467,8 +467,8 @@
                 "description": "EXA_MENU",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.9178617992177313,
-                    "rel_y": 0.21089223638470453
+                    "rel_x": 0.9268433179723502,
+                    "rel_y": 0.21089223638470456
                 },
                 "visibility": true
             },
@@ -479,8 +479,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.9178617992177313,
-                "rel_y": 0.21089223638470453
+                "rel_x": 0.9268433179723502,
+                "rel_y": 0.21089223638470456
             },
             "type": "Click"
         },
@@ -491,8 +491,8 @@
                 "description": "EXA_OBSCURAN_MANEUVER",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.1930738450109917,
-                    "rel_y": 0.7880075059706584
+                    "rel_x": 0.18904158694647558,
+                    "rel_y": 0.7767485499829409
                 },
                 "visibility": true
             },
@@ -503,8 +503,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.1930738450109917,
-                "rel_y": 0.7880075059706584
+                "rel_x": 0.18904158694647558,
+                "rel_y": 0.7767485499829409
             },
             "type": "Click"
         },
