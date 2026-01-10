@@ -500,14 +500,17 @@
             "type": "Click"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
                 "description": "EXA_SKILLEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7693897873804072,
-                    "rel_y": 0.8677352283148532
+                    "rel_x": 0.7253044654939107,
+                    "rel_y": 0.8469071453371874
                 },
                 "visibility": true
             },
@@ -518,20 +521,23 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7693897873804072,
-                "rel_y": 0.8677352283148532
+                "rel_x": 0.7253044654939107,
+                "rel_y": 0.8469071453371874
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
                 "description": "EXA_SKILLEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8076193719927739,
-                    "rel_y": 0.7270131580320982
+                    "rel_x": 0.7738460479911362,
+                    "rel_y": 0.7189916238236471
                 },
                 "visibility": true
             },
@@ -542,20 +548,23 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8076193719927739,
-                "rel_y": 0.7270131580320982
+                "rel_x": 0.7738460479911362,
+                "rel_y": 0.7189916238236471
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
                 "description": "EXA_SKILLEXA_SPACE3",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.890346432780629,
-                    "rel_y": 0.6479941174079645
+                    "rel_x": 0.8505724110068048,
+                    "rel_y": 0.6279831500391129
                 },
                 "visibility": true
             },
@@ -566,10 +575,10 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.890346432780629,
-                "rel_y": 0.6479941174079645
+                "rel_x": 0.8505724110068048,
+                "rel_y": 0.6279831500391129
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
             "editor_icon_scale": 1,
