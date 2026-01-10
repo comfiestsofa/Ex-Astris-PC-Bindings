@@ -129,13 +129,19 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 59,
-                "text": "F1",
-                "virtual_key": 112
+                "scan_code": 56,
+                "text": "Alt",
+                "virtual_key": 18
             },
             "rel_work_position": {
                 "rel_x": 0.2995391705069124,
                 "rel_y": 0.45138178096212894
+            },
+            "second_key": {
+                "device": "keyboard",
+                "scan_code": 59,
+                "text": "F1",
+                "virtual_key": 112
             },
             "type": "Click"
         },
@@ -153,13 +159,19 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 60,
-                "text": "F2",
-                "virtual_key": 113
+                "scan_code": 56,
+                "text": "Alt",
+                "virtual_key": 18
             },
             "rel_work_position": {
                 "rel_x": 0.41877880184331795,
                 "rel_y": 0.43807574206755373
+            },
+            "second_key": {
+                "device": "keyboard",
+                "scan_code": 60,
+                "text": "F2",
+                "virtual_key": 113
             },
             "type": "Click"
         },
@@ -177,13 +189,19 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 61,
-                "text": "F3",
-                "virtual_key": 114
+                "scan_code": 56,
+                "text": "Alt",
+                "virtual_key": 18
             },
             "rel_work_position": {
                 "rel_x": 0.4879032258064516,
                 "rel_y": 0.43091095189355166
+            },
+            "second_key": {
+                "device": "keyboard",
+                "scan_code": 61,
+                "text": "F3",
+                "virtual_key": 114
             },
             "type": "Click"
         },
@@ -452,19 +470,13 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 56,
-                "text": "Alt",
-                "virtual_key": 18
+                "scan_code": 59,
+                "text": "F1",
+                "virtual_key": 112
             },
             "rel_work_position": {
                 "rel_x": 0.6768433179723502,
                 "rel_y": 0.7717502558853634
-            },
-            "second_key": {
-                "device": "keyboard",
-                "scan_code": 59,
-                "text": "F1",
-                "virtual_key": 112
             },
             "type": "BunchClick"
         },
@@ -485,19 +497,40 @@
             },
             "key": {
                 "device": "keyboard",
-                "scan_code": 56,
-                "text": "Alt",
-                "virtual_key": 18
+                "scan_code": 60,
+                "text": "F2",
+                "virtual_key": 113
             },
             "rel_work_position": {
                 "rel_x": 0.7188940092165897,
                 "rel_y": 0.631525076765609
             },
-            "second_key": {
+            "type": "BunchClick"
+        },
+        {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_QTEEXA_SPACE3",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.8035714285714286,
+                    "rel_y": 0.5649948822927329
+                },
+                "visibility": true
+            },
+            "key": {
                 "device": "keyboard",
-                "scan_code": 60,
-                "text": "F2",
-                "virtual_key": 113
+                "scan_code": 61,
+                "text": "F3",
+                "virtual_key": 114
+            },
+            "rel_work_position": {
+                "rel_x": 0.8035714285714286,
+                "rel_y": 0.5649948822927329
             },
             "type": "BunchClick"
         },
@@ -525,39 +558,6 @@
             "rel_work_position": {
                 "rel_x": 0.8035714285714286,
                 "rel_y": 0.5649948822927329
-            },
-            "type": "BunchClick"
-        },
-        {
-            "bunch_click_continue_number": 20,
-            "bunch_click_one_off_number": 20,
-            "bunch_click_type": "Continue",
-            "editor_icon_scale": 1,
-            "icon": {
-                "background_color": "00000066",
-                "description": "EXA_QTEEXA_SPACE3",
-                "radius_correction": 1,
-                "rel_position": {
-                    "rel_x": 0.8035714285714286,
-                    "rel_y": 0.5649948822927329
-                },
-                "visibility": true
-            },
-            "key": {
-                "device": "keyboard",
-                "scan_code": 56,
-                "text": "Alt",
-                "virtual_key": 18
-            },
-            "rel_work_position": {
-                "rel_x": 0.8035714285714286,
-                "rel_y": 0.5649948822927329
-            },
-            "second_key": {
-                "device": "keyboard",
-                "scan_code": 61,
-                "text": "F3",
-                "virtual_key": 114
             },
             "type": "BunchClick"
         },
