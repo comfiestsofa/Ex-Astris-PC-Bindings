@@ -408,6 +408,54 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
+                "description": "EXA_QTEEXA_SPACE1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.6716589861751152,
+                    "rel_y": 0.7021494370522006
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RT+X",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.6716589861751152,
+                "rel_y": 0.7021494370522006
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_QTEEXA_SPACE2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.7580645161290323,
+                    "rel_y": 0.5619242579324463
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RT+Y",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.7580645161290323,
+                "rel_y": 0.5619242579324463
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
                 "description": "EXA_SKILLEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {

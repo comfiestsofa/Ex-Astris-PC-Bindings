@@ -381,6 +381,30 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
+                "description": "EXA_QTE",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.722926267281106,
+                    "rel_y": 0.6499488229273286
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RT+X",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.722926267281106,
+                "rel_y": 0.6499488229273286
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
                 "description": "EXA_SKILL",
                 "radius_correction": 1,
                 "rel_position": {
