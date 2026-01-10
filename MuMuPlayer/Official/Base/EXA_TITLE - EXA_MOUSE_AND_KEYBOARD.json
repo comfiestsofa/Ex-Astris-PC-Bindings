@@ -147,7 +147,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.20730117340286836,
-                    "rel_y": 0.9154113557358053
+                    "rel_y": 0.9142526071842411
                 },
                 "visibility": true
             },
@@ -159,7 +159,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.20730117340286836,
-                "rel_y": 0.9154113557358053
+                "rel_y": 0.9142526071842411
             },
             "type": "Click"
         },
@@ -171,7 +171,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.27444589308996087,
-                    "rel_y": 0.9177288528389339
+                    "rel_y": 0.9142526071842411
                 },
                 "visibility": true
             },
@@ -183,7 +183,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.27444589308996087,
-                "rel_y": 0.9177288528389339
+                "rel_y": 0.9142526071842411
             },
             "type": "Click"
         },
