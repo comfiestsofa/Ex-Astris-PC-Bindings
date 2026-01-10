@@ -119,6 +119,78 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
+                "description": "EXA_ENEMYEXA_SPACE1",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.2995391705069124,
+                    "rel_y": 0.45138178096212894
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 59,
+                "text": "F1",
+                "virtual_key": 112
+            },
+            "rel_work_position": {
+                "rel_x": 0.2995391705069124,
+                "rel_y": 0.45138178096212894
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_ENEMYEXA_SPACE2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.41877880184331795,
+                    "rel_y": 0.43807574206755373
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 60,
+                "text": "F2",
+                "virtual_key": 113
+            },
+            "rel_work_position": {
+                "rel_x": 0.41877880184331795,
+                "rel_y": 0.43807574206755373
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_ENEMYEXA_SPACE3",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.4879032258064516,
+                    "rel_y": 0.43091095189355166
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "keyboard",
+                "scan_code": 61,
+                "text": "F3",
+                "virtual_key": 114
+            },
+            "rel_work_position": {
+                "rel_x": 0.4879032258064516,
+                "rel_y": 0.43091095189355166
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
                 "description": "EXA_ENTROPITHEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
