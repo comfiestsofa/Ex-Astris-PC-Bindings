@@ -428,6 +428,9 @@
             "type": "Click"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
@@ -449,9 +452,12 @@
                 "rel_x": 0.6768433179723502,
                 "rel_y": 0.7717502558853634
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
@@ -473,9 +479,12 @@
                 "rel_x": 0.7188940092165897,
                 "rel_y": 0.631525076765609
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
+            "bunch_click_continue_number": 20,
+            "bunch_click_one_off_number": 20,
+            "bunch_click_type": "Continue",
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
@@ -497,7 +506,7 @@
                 "rel_x": 0.8035714285714286,
                 "rel_y": 0.5649948822927329
             },
-            "type": "Click"
+            "type": "BunchClick"
         },
         {
             "bunch_click_continue_number": 20,
