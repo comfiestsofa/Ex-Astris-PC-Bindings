@@ -788,7 +788,7 @@
                 "text": "S",
                 "virtual_key": 83
             },
-            "editor_icon_scale": 2.3132434120085126,
+            "editor_icon_scale": 1,
             "first_point_policy": {
                 "handle_type": "Move",
                 "idle_before_first_press": 0,
@@ -824,7 +824,7 @@
                 "text": "A",
                 "virtual_key": 65
             },
-            "rel_radius": 0.11726118678384166,
+            "rel_radius": 0.12065732206861246,
             "rel_work_position": {
                 "rel_x": 0.1450857544354504,
                 "rel_y": 0.7467404506210329
