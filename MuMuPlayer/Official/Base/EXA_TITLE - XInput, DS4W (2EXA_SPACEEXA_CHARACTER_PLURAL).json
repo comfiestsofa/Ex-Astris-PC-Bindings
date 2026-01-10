@@ -120,8 +120,8 @@
                 "description": "EXA_COMBOEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7157952683392199,
-                    "rel_y": 0.816358532652943
+                    "rel_x": 0.7175233789382982,
+                    "rel_y": 0.7385693821923494
                 },
                 "visibility": true
             },
@@ -132,8 +132,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7157952683392199,
-                "rel_y": 0.816358532652943
+                "rel_x": 0.7175233789382982,
+                "rel_y": 0.7385693821923494
             },
             "type": "BunchClick"
         },
@@ -147,8 +147,8 @@
                 "description": "EXA_COMBOEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7975545096635577,
-                    "rel_y": 0.6776241028616051
+                    "rel_x": 0.7981305465299171,
+                    "rel_y": 0.5998349524010115
                 },
                 "visibility": true
             },
@@ -159,8 +159,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7975545096635577,
-                "rel_y": 0.6776241028616051
+                "rel_x": 0.7981305465299171,
+                "rel_y": 0.5998349524010115
             },
             "type": "BunchClick"
         },
@@ -536,8 +536,8 @@
                 "description": "EXA_SKILLEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7667244696585546,
-                    "rel_y": 0.7914216834496196
+                    "rel_x": 0.7436829950041768,
+                    "rel_y": 0.7873275176359043
                 },
                 "visibility": true
             },
@@ -548,8 +548,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7667244696585546,
-                "rel_y": 0.7914216834496196
+                "rel_x": 0.7436829950041768,
+                "rel_y": 0.7873275176359043
             },
             "type": "Click"
         },
@@ -560,8 +560,8 @@
                 "description": "EXA_SKILLEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8476266709791216,
-                    "rel_y": 0.640518787510092
+                    "rel_x": 0.8251612331911032,
+                    "rel_y": 0.6446129533238074
                 },
                 "visibility": true
             },
@@ -572,8 +572,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8476266709791216,
-                "rel_y": 0.640518787510092
+                "rel_x": 0.8251612331911032,
+                "rel_y": 0.6446129533238074
             },
             "type": "Click"
         },
@@ -609,8 +609,8 @@
                 "description": "EXA_ULTIMATEEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7399638937716756,
-                    "rel_y": 0.7354077106789492
+                    "rel_x": 0.7785583638177587,
+                    "rel_y": 0.8479972705561242
                 },
                 "visibility": true
             },
@@ -630,8 +630,8 @@
                 "rel_y": 0.158333
             },
             "rel_work_position": {
-                "rel_x": 0.7399638937716756,
-                "rel_y": 0.7354077106789492
+                "rel_x": 0.7785583638177587,
+                "rel_y": 0.8479972705561242
             },
             "start_wait_time": 0,
             "type": "Curve"
@@ -644,8 +644,8 @@
                 "description": "EXA_ULTIMATEEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8220953057584252,
-                    "rel_y": 0.5789133401569431
+                    "rel_x": 0.8474409278782409,
+                    "rel_y": 0.7058324803821222
                 },
                 "visibility": true
             },
@@ -665,8 +665,8 @@
                 "rel_y": 0.273333
             },
             "rel_work_position": {
-                "rel_x": 0.8220953057584252,
-                "rel_y": 0.5789133401569431
+                "rel_x": 0.8474409278782409,
+                "rel_y": 0.7058324803821222
             },
             "start_wait_time": 0,
             "type": "Curve"
