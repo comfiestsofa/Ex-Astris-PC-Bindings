@@ -120,8 +120,8 @@
                 "description": "EXA_COMBO",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7710109252134222,
-                    "rel_y": 0.7606674327831335
+                    "rel_x": 0.7583381141535144,
+                    "rel_y": 0.6798076579622533
                 },
                 "visibility": true
             },
@@ -132,8 +132,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7710109252134222,
-                "rel_y": 0.7606674327831335
+                "rel_x": 0.7583381141535144,
+                "rel_y": 0.6798076579622533
             },
             "type": "BunchClick"
         },
@@ -485,8 +485,8 @@
                 "description": "EXA_SKILL",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8076193719927739,
-                    "rel_y": 0.7270131580320982
+                    "rel_x": 0.7874580816701932,
+                    "rel_y": 0.7280366994855271
                 },
                 "visibility": true
             },
@@ -497,8 +497,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8076193719927739,
-                "rel_y": 0.7270131580320982
+                "rel_x": 0.7874580816701932,
+                "rel_y": 0.7280366994855271
             },
             "type": "Click"
         },
@@ -534,8 +534,8 @@
                 "description": "EXA_ULTIMATE",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7858327669100728,
-                    "rel_y": 0.6602211884166146
+                    "rel_x": 0.8140585733616856,
+                    "rel_y": 0.7758813726540762
                 },
                 "visibility": true
             },
@@ -555,8 +555,8 @@
                 "rel_y": 0.223827
             },
             "rel_work_position": {
-                "rel_x": 0.7858327669100728,
-                "rel_y": 0.6602211884166146
+                "rel_x": 0.8140585733616856,
+                "rel_y": 0.7758813726540762
             },
             "start_wait_time": 0,
             "type": "Curve"
