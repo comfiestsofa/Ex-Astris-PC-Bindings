@@ -370,7 +370,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_QTE (EXA_YAN)",
+                "description": "EXA_QTE",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8155149934810951,
