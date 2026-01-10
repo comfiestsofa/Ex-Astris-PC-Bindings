@@ -824,7 +824,7 @@
                 "description": "EXA_WAVE_PARTICLE_SWITCH",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.9270175438596492,
+                    "rel_x": 0.9268433179723502,
                     "rel_y": 0.43820224719101125
                 },
                 "visibility": true
@@ -836,7 +836,7 @@
                 "virtual_key": 16
             },
             "rel_work_position": {
-                "rel_x": 0.9270175438596492,
+                "rel_x": 0.9268433179723502,
                 "rel_y": 0.43820224719101125
             },
             "type": "Click"
