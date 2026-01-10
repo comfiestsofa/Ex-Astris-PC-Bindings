@@ -315,7 +315,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "EXA_INTERACT",
+                "description": "EXA_INTERACTEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6792279411764706,
@@ -332,6 +332,30 @@
             "rel_work_position": {
                 "rel_x": 0.6792279411764706,
                 "rel_y": 0.599673202614379
+            },
+            "type": "Click"
+        },
+        {
+            "editor_icon_scale": 1,
+            "icon": {
+                "background_color": "00000066",
+                "description": "EXA_INTERACTEXA_SPACE2",
+                "radius_correction": 1,
+                "rel_position": {
+                    "rel_x": 0.679147465437788,
+                    "rel_y": 0.7154554759467758
+                },
+                "visibility": true
+            },
+            "key": {
+                "device": "joystick",
+                "scan_code": 2147483647,
+                "text": "RT+RA",
+                "virtual_key": 2147483647
+            },
+            "rel_work_position": {
+                "rel_x": 0.679147465437788,
+                "rel_y": 0.7154554759467758
             },
             "type": "Click"
         },
