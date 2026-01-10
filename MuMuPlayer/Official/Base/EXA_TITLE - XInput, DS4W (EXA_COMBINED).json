@@ -286,7 +286,7 @@
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.9262672811059908,
-                    "rel_y": 0.48618219037871035
+                    "rel_y": 0.4861821903787104
                 },
                 "visibility": true
             },
@@ -298,7 +298,7 @@
             },
             "rel_work_position": {
                 "rel_x": 0.9262672811059908,
-                "rel_y": 0.48618219037871035
+                "rel_y": 0.4861821903787104
             },
             "type": "Click"
         },
@@ -386,7 +386,7 @@
                 "description": "EXA_MENU",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.9178617992177314,
+                    "rel_x": 0.9178617992177313,
                     "rel_y": 0.21089223638470453
                 },
                 "visibility": true
@@ -398,7 +398,7 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.9178617992177314,
+                "rel_x": 0.9178617992177313,
                 "rel_y": 0.21089223638470453
             },
             "type": "Click"
@@ -491,7 +491,7 @@
                 "description": "EXA_SKILLEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7738460479911362,
+                    "rel_x": 0.7738460479911363,
                     "rel_y": 0.7189916238236471
                 },
                 "visibility": true
@@ -503,7 +503,7 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7738460479911362,
+                "rel_x": 0.7738460479911363,
                 "rel_y": 0.7189916238236471
             },
             "type": "BunchClick"
@@ -542,7 +542,7 @@
                 "description": "EXA_TRAVELLING_STRIKE",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.8500489631336405,
+                    "rel_x": 0.8500489631336404,
                     "rel_y": 0.8254350051177071
                 },
                 "visibility": true
@@ -554,7 +554,7 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.8500489631336405,
+                "rel_x": 0.8500489631336404,
                 "rel_y": 0.8254350051177071
             },
             "type": "Click"
@@ -668,7 +668,7 @@
             "type": "Click"
         },
         {
-            "editor_icon_scale": 1,
+            "editor_icon_scale": 2.3802398989899003,
             "icon": {
                 "background_color": "00000066",
                 "description": "",
