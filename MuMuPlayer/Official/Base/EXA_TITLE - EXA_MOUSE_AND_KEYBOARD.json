@@ -74,8 +74,8 @@
                 "description": "EXA_CHARACTER_SCREEN/EXA_SKIP_TURN",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.9282814614343705,
-                    "rel_y": 0.06743330921016855
+                    "rel_x": 0.9282814614343706,
+                    "rel_y": 0.06859205776173286
                 },
                 "visibility": true
             },
@@ -86,8 +86,8 @@
                 "virtual_key": 86
             },
             "rel_work_position": {
-                "rel_x": 0.9282814614343705,
-                "rel_y": 0.06743330921016855
+                "rel_x": 0.9282814614343706,
+                "rel_y": 0.06859205776173286
             },
             "type": "Click"
         },
@@ -725,7 +725,7 @@
                 "description": "EXA_WAVE_PARTICLE_SWITCH",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.9270175438596491,
+                    "rel_x": 0.9270175438596492,
                     "rel_y": 0.43820224719101125
                 },
                 "visibility": true
@@ -737,7 +737,7 @@
                 "virtual_key": 16
             },
             "rel_work_position": {
-                "rel_x": 0.9270175438596491,
+                "rel_x": 0.9270175438596492,
                 "rel_y": 0.43820224719101125
             },
             "type": "Click"
