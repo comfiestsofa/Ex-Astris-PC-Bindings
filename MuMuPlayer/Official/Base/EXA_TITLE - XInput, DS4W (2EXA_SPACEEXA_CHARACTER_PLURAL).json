@@ -488,8 +488,8 @@
                 "description": "EXA_QTEEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.6716589861751152,
-                    "rel_y": 0.7021494370522006
+                    "rel_x": 0.6808755760368663,
+                    "rel_y": 0.6693961105424769
                 },
                 "visibility": true
             },
@@ -500,8 +500,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.6716589861751152,
-                "rel_y": 0.7021494370522006
+                "rel_x": 0.6808755760368663,
+                "rel_y": 0.6693961105424769
             },
             "type": "Click"
         },
@@ -512,8 +512,8 @@
                 "description": "EXA_QTEEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
-                    "rel_x": 0.7580645161290323,
-                    "rel_y": 0.5619242579324463
+                    "rel_x": 0.755184331797235,
+                    "rel_y": 0.534288638689867
                 },
                 "visibility": true
             },
@@ -524,8 +524,8 @@
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
-                "rel_x": 0.7580645161290323,
-                "rel_y": 0.5619242579324463
+                "rel_x": 0.755184331797235,
+                "rel_y": 0.534288638689867
             },
             "type": "Click"
         },
