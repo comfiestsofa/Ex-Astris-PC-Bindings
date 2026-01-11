@@ -1,0 +1,108 @@
+{
+    "Config": [
+        {
+            "Ex Astris - Mouse and Keyboard [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - Mouse and Keyboard [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0,
+                "xSensitivity": 1,
+                "ySensitivity": 1
+            }
+        },
+        {
+            "エクスアストリス - マウスとキーボード [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - マウスとキーボード [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0,
+                "xSensitivity": 1,
+                "ySensitivity": 1
+            }
+        },
+        {
+            "엑스 아스트리스 - 마우스와 키보드 [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - 마우스와 키보드 [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0,
+                "xSensitivity": 1,
+                "ySensitivity": 1
+            }
+        },
+        {
+            "來自星塵 - 滑鼠和鍵盤 [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - 滑鼠和鍵盤 [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0,
+                "xSensitivity": 1,
+                "ySensitivity": 1
+            }
+        },
+        {
+            "来自星尘 - 鼠标和键盘 [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - 鼠标和键盘 [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0,
+                "xSensitivity": 1,
+                "ySensitivity": 1
+            }
+        },
+        {
+            "EXA_TITLE - EXA_MOUSE_AND_KEYBOARD": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - EXA_MOUSE_AND_KEYBOARD.json",
+                "status": "",
+                "transparency": 100,
+                "type": 0,
+                "xSensitivity": 1,
+                "ySensitivity": 1
+            }
+        },
+        {
+            "No scheme": {
+                "configType": "Customer",
+                "moveTop": false,
+                "path": "sanitary-4EA33DC3-6C4B-46A2-A180-6F2597234300",
+                "status": "",
+                "transparency": 100,
+                "type": 0,
+                "xSensitivity": 1,
+                "ySensitivity": 1
+            }
+        }
+    ],
+    "Current": {
+        "Ex Astris - Mouse and Keyboard [English]": {
+            "configType": "Customer",
+            "copiedNum": 0,
+            "moveTop": false,
+            "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - Mouse and Keyboard [English].json",
+            "status": "",
+            "transparency": 100,
+            "type": 0,
+            "xSensitivity": 1,
+            "ySensitivity": 1
+        }
+    },
+    "Version": 2
+}

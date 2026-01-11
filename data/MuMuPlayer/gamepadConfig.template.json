@@ -1,0 +1,553 @@
+{
+    "Config": [
+        {
+            "Ex Astris - PlayStation (1 Character) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - PlayStation (1 Character) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "Ex Astris - PlayStation (2 Characters) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - PlayStation (2 Characters) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "Ex Astris - PlayStation (3 Characters) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - PlayStation (3 Characters) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "Ex Astris - PlayStation (Combined) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - PlayStation (Combined) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "Ex Astris - XInput, DS4W (1 Character) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - XInput, DS4W (1 Character) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "Ex Astris - XInput, DS4W (2 Characters) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - XInput, DS4W (2 Characters) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "Ex Astris - XInput, DS4W (3 Characters) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - XInput, DS4W (3 Characters) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "Ex Astris - XInput, DS4W (Combined) [English]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - XInput, DS4W (Combined) [English].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - PlayStation (1キャラ) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - PlayStation (1キャラ) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - PlayStation (2キャラ) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - PlayStation (2キャラ) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - PlayStation (3キャラ) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - PlayStation (3キャラ) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - PlayStation (統合) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - PlayStation (統合) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - XInput, DS4W (1キャラ) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - XInput, DS4W (1キャラ) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - XInput, DS4W (2キャラ) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - XInput, DS4W (2キャラ) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - XInput, DS4W (3キャラ) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - XInput, DS4W (3キャラ) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "エクスアストリス - XInput, DS4W (統合) [日本語]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/日本語/エクスアストリス - XInput, DS4W (統合) [日本語].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - PlayStation (1 캐릭터) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - PlayStation (1 캐릭터) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - PlayStation (2 캐릭터) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - PlayStation (2 캐릭터) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - PlayStation (3 캐릭터) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - PlayStation (3 캐릭터) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - PlayStation (통합) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - PlayStation (통합) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - XInput, DS4W (1 캐릭터) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - XInput, DS4W (1 캐릭터) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - XInput, DS4W (2 캐릭터) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - XInput, DS4W (2 캐릭터) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - XInput, DS4W (3 캐릭터) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - XInput, DS4W (3 캐릭터) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "엑스 아스트리스 - XInput, DS4W (통합) [한국어]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/한국어/엑스 아스트리스 - XInput, DS4W (통합) [한국어].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - PlayStation (1角色) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - PlayStation (1角色) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - PlayStation (2角色) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - PlayStation (2角色) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - PlayStation (3角色) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - PlayStation (3角色) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - PlayStation (統一) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - PlayStation (統一) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - XInput, DS4W (1角色) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - XInput, DS4W (1角色) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - XInput, DS4W (2角色) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - XInput, DS4W (2角色) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - XInput, DS4W (3角色) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - XInput, DS4W (3角色) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "來自星塵 - XInput, DS4W (統一) [繁體中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/繁體中文/來自星塵 - XInput, DS4W (統一) [繁體中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - PlayStation (1角色) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - PlayStation (1角色) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - PlayStation (2角色) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - PlayStation (2角色) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - PlayStation (3角色) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - PlayStation (3角色) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - PlayStation (统一) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - PlayStation (统一) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - XInput, DS4W (1角色) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - XInput, DS4W (1角色) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - XInput, DS4W (2角色) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - XInput, DS4W (2角色) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - XInput, DS4W (3角色) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - XInput, DS4W (3角色) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "来自星尘 - XInput, DS4W (统一) [简体中文]": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/简体中文/来自星尘 - XInput, DS4W (统一) [简体中文].json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - PlayStation (1EXA_SPACEEXA_CHARACTER_SINGULAR)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - PlayStation (1EXA_SPACEEXA_CHARACTER_SINGULAR).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - PlayStation (2EXA_SPACEEXA_CHARACTER_PLURAL)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - PlayStation (2EXA_SPACEEXA_CHARACTER_PLURAL).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - PlayStation (3EXA_SPACEEXA_CHARACTER_PLURAL)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - PlayStation (3EXA_SPACEEXA_CHARACTER_PLURAL).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - PlayStation (EXA_COMBINED)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - PlayStation (EXA_COMBINED).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - XInput, DS4W (1EXA_SPACEEXA_CHARACTER_SINGULAR)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - XInput, DS4W (1EXA_SPACEEXA_CHARACTER_SINGULAR).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - XInput, DS4W (2EXA_SPACEEXA_CHARACTER_PLURAL)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - XInput, DS4W (2EXA_SPACEEXA_CHARACTER_PLURAL).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - XInput, DS4W (3EXA_SPACEEXA_CHARACTER_PLURAL)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - XInput, DS4W (3EXA_SPACEEXA_CHARACTER_PLURAL).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "EXA_TITLE - XInput, DS4W (EXA_COMBINED)": {
+                "configType": "Customer",
+                "copiedNum": 0,
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official/Base/EXA_TITLE - XInput, DS4W (EXA_COMBINED).json",
+                "status": "",
+                "transparency": 100,
+                "type": 0
+            }
+        },
+        {
+            "No scheme": {
+                "configType": "Customer",
+                "moveTop": false,
+                "path": "sanitary-4EA33DC3-6C4B-46A2-A180-6F2597234300",
+                "status": "",
+                "type": 0
+            }
+        }
+    ],
+    "Current": {
+        "Ex Astris - PlayStation (1 Character) [English]": {
+            "configType": "Customer",
+            "copiedNum": 0,
+            "moveTop": false,
+            "path": "${repo_dir}/MuMuPlayer/Official/English/Ex Astris - PlayStation (1 Character) [English].json",
+            "status": "",
+            "transparency": 100,
+            "type": 0
+        }
+    },
+    "Version": 3
+}
