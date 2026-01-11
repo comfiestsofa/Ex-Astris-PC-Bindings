@@ -90,3 +90,8 @@ Hypergryph・Gryphlineが公式に公開した簡体字中国語のMuMuPlayerキ
 | L1+← | LB+← | Alt+F1 |  | 敵1 |  |
 | L1+↑ | LB+↑ | Alt+F2 |  | 敵2 |  |
 | L1+→ | LB+→ | Alt+F3 | 「ゼオライト号」から降りる | 敵3 |  |
+
+# 翻訳一覧
+[**Googleスプレッドシートで表示**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=0#gid=0)
+
+[data/translations.tsv](data/translations.tsv)にあるTSVファイルはこのGoogleスプレッドシートから生成されています。

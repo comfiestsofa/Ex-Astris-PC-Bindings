@@ -15,7 +15,7 @@ Hypergryph·Gryphline的3D RPG遊戲[《來自星塵》](https://exa.gryphline.c
 * 或者，也可以將各個鍵位設定的JSON檔案手動匯入MuMuPlayer。
 
 # 對應狀況
-[在Google試算表中查看](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=1478189668#gid=1478189668)
+[**在Google試算表中查看**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=1478189668#gid=1478189668)
 
 | 模擬器 | 版本 | Android版本 | 對應狀況 | 本專案的支援情況 |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ Hypergryph·Gryphline的3D RPG遊戲[《來自星塵》](https://exa.gryphline.c
 * 按下特定鍵盤按鈕（特別是 返回/任務、交互1、交互2）時，滑鼠不會自動鎖定
 
 # 操作方式
-[在Google試算表中查看](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=979903217#gid=979903217)
+[**在Google試算表中查看**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=979903217#gid=979903217)
 
 | PlayStation | XInput (DS4Windows) | 滑鼠和鍵盤 | 行動（探索） | 行動（戰鬥） | 備註 |
 |---|---|---|---|---|---|
@@ -90,3 +90,8 @@ Hypergryph·Gryphline的3D RPG遊戲[《來自星塵》](https://exa.gryphline.c
 | L1+← | LB+← | Alt+F1 |  | 敵1 |  |
 | L1+↑ | LB+↑ | Alt+F2 |  | 敵2 |  |
 | L1+→ | LB+→ | Alt+F3 | 從「沸石號」下車 | 敵3 |  |
+
+# 翻譯一覽
+[**在Google試算表中查看**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=0#gid=0)
+
+[data/translations.tsv](data/translations.tsv)中的TSV檔案是由此Google試算表產生的。

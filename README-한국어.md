@@ -15,7 +15,7 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 * 또는 각 키 설정 JSON 파일을 MuMuPlayer에 수동으로 가져올 수도 있습니다.
 
 # 지원 상황
-[Google 스프레드시트에서 보기](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=581174830#gid=581174830)
+[**Google 스프레드시트에서 보기**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=581174830#gid=581174830)
 
 | 에뮬레이터 | 버전 | Android 버전 | 지원 상황 | 본 프로젝트 지원 |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 * 특정 키보드 버튼 (특히 돌아가기/임무, 상호작용 1, 상호작용 2) 을 눌러도 마우스가 자동으로 잠기지 않습니다
 
 # 조작 방법
-[Google 스프레드시트에서 보기](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=625594552#gid=625594552)
+[**Google 스프레드시트에서 보기**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=625594552#gid=625594552)
 
 | PlayStation | XInput (DS4Windows) | 마우스와 키보드 | 행동 (탐험) | 행동 (전투) | 메모 |
 |---|---|---|---|---|---|
@@ -90,3 +90,8 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 | L1+← | LB+← | Alt+F1 |  | 적 1 |  |
 | L1+↑ | LB+↑ | Alt+F2 |  | 적 2 |  |
 | L1+→ | LB+→ | Alt+F3 | 제올라이트에서 내리기 | 적 3 |  |
+
+# 번역 목록
+[**Google 스프레드시트에서 보기**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=0#gid=0)
+
+[data/translations.tsv](data/translations.tsv)에 있는 TSV 파일은 이 Google 스프레드시트에서 생성됩니다.
