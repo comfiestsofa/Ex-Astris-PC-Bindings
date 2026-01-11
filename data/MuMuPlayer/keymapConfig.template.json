@@ -1,6 +1,20 @@
 {
     "Config": [
         {
+            "Default Operation Plan": {
+                "configType": "Cloud",
+                "contentUrl": "https://api.mumuglobal.com/api/keymapping/65dea921be41957695fd5cff/content/h5",
+                "copiedNum": 0,
+                "description": "Default Operation Plan",
+                "moveTop": false,
+                "path": "${repo_dir}/MuMuPlayer/Official (Unmodified)/简体中文/来自星尘 - 鼠标和键盘 [简体中文].json",
+                "priority": 0,
+                "status": "add",
+                "type": 0,
+                "url": "https://mumu-global.fp.ps.easebar.com/file/65ddca4ca65a650165f398a6S3BRekVW03"
+            }
+        },
+        {
             "Ex Astris - Mouse and Keyboard [English]": {
                 "configType": "Customer",
                 "copiedNum": 0,
