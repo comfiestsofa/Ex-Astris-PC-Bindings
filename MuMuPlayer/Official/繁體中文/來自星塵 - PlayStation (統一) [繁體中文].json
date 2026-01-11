@@ -437,7 +437,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L1+□) 額外攻擊1",
+                "description": "(L1+ロ) 額外攻擊1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6768433179723502,
@@ -518,7 +518,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(□) 技能1",
+                "description": "(ロ) 技能1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7253044654939107,
@@ -620,7 +620,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L2+□) 必殺技1",
+                "description": "(L2+ロ) 必殺技1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7942909212224764,

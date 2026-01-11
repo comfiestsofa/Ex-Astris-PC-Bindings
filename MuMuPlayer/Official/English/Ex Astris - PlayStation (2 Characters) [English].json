@@ -485,7 +485,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L1+□) QTE 1",
+                "description": "(L1+ロ) QTE 1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.6808755760368663,
@@ -533,7 +533,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(□) Skill 1",
+                "description": "(ロ) Skill 1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7436829950041768,
@@ -605,7 +605,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L2+□) Ultimate 1",
+                "description": "(L2+ロ) Ultimate 1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7785583638177587,

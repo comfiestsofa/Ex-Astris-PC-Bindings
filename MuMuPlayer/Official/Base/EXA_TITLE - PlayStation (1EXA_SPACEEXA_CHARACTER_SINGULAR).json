@@ -458,7 +458,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L1+□) EXA_QTE",
+                "description": "(L1+ロ) EXA_QTE",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7188940092165897,
@@ -482,7 +482,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(□) EXA_SKILL",
+                "description": "(ロ) EXA_SKILL",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7874580816701932,
@@ -530,7 +530,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L2+□) EXA_ULTIMATE",
+                "description": "(L2+ロ) EXA_ULTIMATE",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8140585733616856,

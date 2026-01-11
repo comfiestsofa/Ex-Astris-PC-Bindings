@@ -458,7 +458,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L1+□) 追加攻撃",
+                "description": "(L1+ロ) 追加攻撃",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7188940092165897,
@@ -482,7 +482,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(□) スキル",
+                "description": "(ロ) スキル",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.7874580816701932,
@@ -530,7 +530,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L2+□) アルティメット",
+                "description": "(L2+ロ) アルティメット",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.8140585733616856,
