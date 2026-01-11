@@ -18,7 +18,7 @@ Hypergryph·Gryphline的3D RPG游戏[《来自星尘》](https://exa.gryphline.c
 * 或者，也可以将各个键位设定的JSON档案手动汇入MuMuPlayer。
 
 # 对应状况
-[**在Google试算表中查看**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=1478189668#gid=1478189668)
+[**在Google试算表中查看**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=2048395782#gid=2048395782)
 
 | 模拟器 | 版本 | Android版本 | 对应状况 | 本专案的支援情况 |
 |---|---|---|---|---|
