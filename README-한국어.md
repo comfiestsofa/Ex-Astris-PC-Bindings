@@ -9,6 +9,9 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 
 (⚠ 저는 해외에서 태어난 한국인이라 한국어가 모국어 수준이 아닙니다. 불자연하거나 이상한 표현이 있으면 죄송합니다.)
 
+# 스크린샷
+[스크린샷은 여기에서 확인할 수 있습니다.](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
+
 # 설치 방법
 * "Code" -> "Download ZIP"을 클릭하여 이 저장소를 다운로드하거나, Git 저장소를 클론하세요.
 * `install.bat` 또는 `install.sh`를 실행합니다. (⚠ 주의: 기존의 사용자 지정 키 설정은 덮어써집니다)
@@ -53,6 +56,8 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 
 # 조작 방법
 [**Google 스프레드시트에서 보기**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=625594552#gid=625594552)
+
+[스크린샷은 여기에서 확인할 수 있습니다.](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
 
 | PlayStation | XInput (DS4Windows) | 마우스와 키보드 | 행동 (탐험) | 행동 (전투) | 메모 |
 |---|---|---|---|---|---|

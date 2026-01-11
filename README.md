@@ -7,6 +7,9 @@ Supports PlayStation controllers, XInput controllers (including DS4Windows), and
 
 Based off of Hypergryph/Gryphline's official MuMuPlayer bindings published only in Simplified Chinese.
 
+# Screenshots
+[Screenshots can be viewed here.](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
+
 # Installation
 * Download this repo by clicking on "Code" -> "Download ZIP", or by cloning the Git repo.
 * Open `install.bat` or `install.sh`. (⚠ Warning: This will overwrite any custom bindings you may have!)
@@ -51,6 +54,8 @@ Based off of Hypergryph/Gryphline's official MuMuPlayer bindings published only 
 
 # Controls
 [**View on Google Sheets**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=1428000889#gid=1428000889)
+
+[Screenshots can be viewed here.](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
 
 | PlayStation | XInput (DS4Windows) | Mouse and Keyboard | Action (Exploration) | Action (Battle) | Notes |
 |---|---|---|---|---|---|

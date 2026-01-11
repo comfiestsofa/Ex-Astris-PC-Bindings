@@ -9,6 +9,9 @@ Hypergryph・Gryphlineが公式に公開した簡体字中国語のMuMuPlayerキ
 
 (⚠ 日本語は母国語ではないので、不自然や変な表現があってご容赦ください。)
 
+# スクリーンショット
+[スクリーンショットはこちらから閲覧できます。](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
+
 # インストール方法
 * 「Code」 -> 「Download ZIP」からこのリポジトリをダウンロードするか、Gitリポジトリをcloneしてください。
 * `install.bat`または`install.sh`を実行します。（⚠ 注意：既存のカスタムキー設定は上書きされます）
@@ -53,6 +56,8 @@ Hypergryph・Gryphlineが公式に公開した簡体字中国語のMuMuPlayerキ
 
 # 操作方法
 [**Googleスプレッドシートで表示**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=816027873#gid=816027873)
+
+[スクリーンショットはこちらから閲覧できます。](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
 
 | PlayStation | XInput (DS4Windows) | マウスとキーボード | 行動（探索） | 行動（戦闘） | メモ |
 |---|---|---|---|---|---|

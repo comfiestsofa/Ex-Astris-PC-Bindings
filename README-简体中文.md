@@ -9,6 +9,9 @@ Hypergryph·Gryphline的3D RPG游戏[《来自星尘》](https://exa.gryphline.c
 
 (⚠ 我是海外出生的韩国人，所以中文不太会说（我只能说英文、日文和韩文），因此这份README全部都是从我的日文README机器翻译过来的。请放心，所有游戏术语都取自Hypergryph・Gryphline官方游戏内文字。)
 
+# 萤幕截图
+[萤幕截图可于此查看。](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
+
 # 安装方式
 * 点击「Code」 -> 「Download ZIP」下载此储存库，或是直接clone Git储存库。
 * 执行`install.bat`或`install.sh`。（⚠ 注意：现有的自订键位设定将会被覆盖）
@@ -53,6 +56,8 @@ Hypergryph·Gryphline的3D RPG游戏[《来自星尘》](https://exa.gryphline.c
 
 # 操作方式
 [**在Google试算表中查看**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=1875187677#gid=1875187677)
+
+[萤幕截图可于此查看。](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
 
 | PlayStation | XInput (DS4Windows) | 滑鼠和键盘 | 行动（探索） | 行动（战斗） | 备注 |
 |---|---|---|---|---|---|
