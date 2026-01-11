@@ -1,5 +1,5 @@
 # 《来自星尘》PC键位设定
-[[English](README.md)] [[日本语](README-日本语.md)] [[한국어](README-한국어.md)] [[繁体中文](README-繁体中文.md)] [[**简体中文**](README-简体中文.md)]
+[[English](README.md)] [[日本语](README-日本语.md)] [[한국어](README-한국어.md)] [[繁體中文](README-繁體中文.md)] [[**简体中文**](README-简体中文.md)]
 
 Hypergryph·Gryphline的3D RPG游戏[《来自星尘》](https://exa.gryphline.com/zh-tw)的完全翻译PC键位设定。
 
