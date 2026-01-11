@@ -13,7 +13,7 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 [스크린샷은 여기에서 확인할 수 있습니다.](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
 
 # 설치 방법
-* "Code" -> "Download ZIP"을 클릭하여 이 저장소를 다운로드하거나, Git 저장소를 클론하세요.
+* "Code" -> "Download ZIP"을 클릭하여 이 저장소를 다운로드하거나, Git 저장소를 clone 하세요.
 * `install.bat` 또는 `install.sh`를 실행합니다. (⚠ 주의: 기존의 사용자 지정 키 설정은 덮어써집니다)
 * 또는 각 키 설정 JSON 파일을 MuMuPlayer에 수동으로 가져올 수도 있습니다.
 
