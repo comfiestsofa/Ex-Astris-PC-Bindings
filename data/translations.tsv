@@ -1,0 +1,32 @@
+Base	English	日本語	한국어	繁體中文	简体中文	简体中文 (MuMuPlayer)	English (MuMuPlayer)
+EXA_BACK	Back	戻る	돌아가기	返回	返回	返回	Return
+EXA_BAG	Bag	アイテム欄	아이템 창	道具欄	道具栏		
+EXA_CHARACTER_PLURAL	Characters	キャラ	캐릭터	角色	角色		
+EXA_CHARACTER_SCREEN	Character Profile	キャラクター画面	캐릭터 화면	角色領域	角色领域		
+EXA_CHARACTER_SINGULAR	Character	キャラ	캐릭터	角色	角色		
+EXA_COMBAT_DETAILS	Combat Details	戦闘情報	전투 정보	戰鬥詳情	战斗详情	战斗详情	Combat details
+EXA_COMBINED	Combined	統合	통합	統一	统一		
+EXA_COMBO	Combo	コンボ	연타	連擊	连击	连击	Combo
+EXA_ENEMY	Enemy	敵	적	敵	敌		
+EXA_ENTROPITH	Entropith	エントロピース	엔트로피스	熵核	熵核	熵核技能	Entropy kernel skills
+EXA_HOLD	Hold	長押し	길게 누르기	長按	长按	长按	Hold
+EXA_INFO	Info	情報	정보	資訊	信息		
+EXA_INTERACT	Interact	調べる	상호작용	互動	交互	交互	Interact
+EXA_ITEM_BAR	Item Bar	アイテム欄	아이템 창	道具欄	道具栏	道具栏	Inventory
+EXA_MENU	Menu	メニュー	메뉴	選單	菜单	菜单	Game menu
+EXA_MISSIONS	Missions	任務	임무	任務	任务	任务	Mission
+EXA_MOUSE_AND_KEYBOARD	Mouse and Keyboard	マウスとキーボード	마우스와 키보드	滑鼠和鍵盤	鼠标和键盘		
+EXA_OBSCURAN_MANEUVER	Obscuran Maneuver	光影協同	옵스큐란 매뉴버	光影協同	精准化解	精准格挡	Counter attack
+EXA_QTE	QTE	追加攻撃	추가 공격	額外攻擊	额外攻击	浮空追击	Pursuit in the air
+EXA_SHADOW_SHIFT	Shadow Shift	回避	그림자 회피	匿影	匿影		
+EXA_SHOW_HIDE_MOUSE	Show/Hide Mouse	マウス表示/非表示	마우스 표시/숨기기	顯示/隱藏滑鼠	显示/隐藏鼠标	呼出/隐藏鼠标	Hide the cursor and use mouse to control perspective
+EXA_SKILL	Skill	スキル	스킬	技能	技能	技能	Character skills/Switch to Defense Character, after breaking the enemy's defense, can be held to release combos
+EXA_SKIP_TURN	Skip Turn	ターンをスキップ	턴 넘기기	跳過回合	跳过回合	跳过回合	Skip this round
+EXA_SPACE	 		 				 
+EXA_TITLE	Ex Astris	エクスアストリス	엑스 아스트리스	來自星塵	来自星尘		
+EXA_TRAVELLING_STRIKE	Travelling Strike	アタック	선제공격	場景攻擊	场景攻击	场景攻击	Attack
+EXA_ULTIMATE	Ultimate	アルティメット	궁극기	必殺技	必杀技	终结技 角色大招	Character ultimate skills
+EXA_WARDING_LIGHT	Warding Light	ブロック	워딩 라이트	迴光	回光		
+EXA_WAVE_PARTICLE_SWITCH	Wave/Particle Switch	波動/粒子モード	웨이브/파티클 교체	切換波流/粒象	切换波流/粒象	技能切换	Switch skills
+EXA_YAN	Yan	雁	옌	雁	雁	雁	Yan
+EXA_ZEOLITE	Zeolite	ゼオライト号	제올라이트	沸石號	沸石号		

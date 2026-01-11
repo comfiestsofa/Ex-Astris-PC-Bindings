@@ -12,8 +12,8 @@ else
     PY3=""
 fi
 
-# Find all JSON files recursively, excluding .git and Unmodified folders
-find "$BASE_DIR" \( -type d -name ".git" -o -type d -name "*(Unmodified)" \) -prune -o -type f -name "*.json" -print | while read -r file; do
+# Find all Base JSON files recursively, excluding .git and Unmodified folders
+find "$BASE_DIR" \( -type d -name ".git" -o -type d -name "*(Unmodified)" \) -prune -o -type f -path "*/Base/*.json" -print | while read -r file; do
 	echo "Sorting JSON keymap: $file"
 
     if [ -n "$PY3" ]; then
@@ -24,7 +24,7 @@ find "$BASE_DIR" \( -type d -name ".git" -o -type d -name "*(Unmodified)" \) -pr
         tmpfile="$(mktemp)"
         jq --indent 4 -f "$JQ_SCRIPT" "$file" > "$tmpfile" && mv "$tmpfile" "$file"
     else
-        echo "Error: Neither Python nor jq is available. Cannot sort $file" >&2
+        echo "Error: Neither Python nor jq is available." >&2
     fi
 done
 
