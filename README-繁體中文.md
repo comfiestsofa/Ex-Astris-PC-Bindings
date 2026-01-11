@@ -25,6 +25,7 @@ Hypergryph·Gryphline的3D RPG遊戲[《來自星塵》](https://exa.gryphline.c
 | MuMuPlayer | 5.14.3 | 12 | **Hypergryph・Gryphline官方支援。**<br><br>如果無法從Google Play下載應用程式，請使用[F-Droid的Aurora Store](https://f-droid.org/zh_Hant/packages/com.aurora.store/)模擬器裝置偽裝（我個人已在「Sony Xperia 5 Dual」上確認可運作）。 | 已支援 |
 | Bluestacks | 5.22.160.1025 | 13 | 會因libhoudini錯誤而當機，並可能出現顏色階調跳動的問題。 | 尚未支援 |
 | Bluestacks | 5.22.160.1025 | 11 | 我個人尚未嘗試，但其他使用者回報可正常運作（可能提升幀率）。但顏色階調跳動問題依舊存在。 | 尚未支援 |
+| PlayCover |  |  | 還沒試過。 | 尚未支援 |
 
 # 改善點
 * 已完整翻譯成繁體中文（也包含英文、日文、韓文、簡體中文）
