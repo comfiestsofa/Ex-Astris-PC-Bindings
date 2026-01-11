@@ -7,7 +7,7 @@ PlayStation 컨트롤러, XInput 컨트롤러 (DS4Windows 등 포함), 마우스
 
 Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer 키 설정을 기반으로 제작되었습니다.
 
-(⚠ 저는 해외에서 태어난 한국인이라 한국어가 모국어 수준이 아닙니다. 불자연하거나 이상한 표현이 있으면 죄송합니다.)
+(⚠ 해외에서 태어나 한국어가 모국어 수준은 아닙니다. 어색한 표현이 있을 수 있으니 양해 부탁드립니다.)
 
 # 스크린샷
 [스크린샷은 여기에서 확인할 수 있습니다.](https://drive.google.com/drive/folders/1k7yrsdX55T33MfIIMfmdA6cJZatq4f_s)
