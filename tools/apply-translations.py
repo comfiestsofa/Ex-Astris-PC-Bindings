@@ -8,14 +8,14 @@ TRANSLATIONS_TSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."
 
 # Build list of languages from TSV, ignoring Base and MuMuPlayer reference ones
 LANGUAGES = []
-with open(TRANSLATIONS_TSV, encoding="utf-8", newline="") as f:
+with open(TRANSLATIONS_TSV, encoding="utf-8") as f:
     reader = csv.reader(f, delimiter="\t")
     headers = next(reader)
     LANGUAGES = [h for h in headers if h != "Base" and "(MuMuPlayer)" not in h]
 
 # Load translations
 translations_by_lang = {lang: {} for lang in LANGUAGES}
-with open(TRANSLATIONS_TSV, encoding="utf-8", newline="") as f:
+with open(TRANSLATIONS_TSV, encoding="utf-8") as f:
     reader = csv.DictReader(f, delimiter="\t")
     for row in reader:
         key = row["Base"]
@@ -74,7 +74,7 @@ for first_level in os.listdir("."):
                 content = pattern.sub(lambda m: replace_keys(m, translations), original_content)
 
                 # Write localized file
-                with open(new_filepath, "w", encoding="utf-8") as f:
+                with open(new_filepath, "w", newline="\n", encoding="utf-8") as f:
                     f.write(content)
 
                 print(f"Created translated file: {new_filepath}")

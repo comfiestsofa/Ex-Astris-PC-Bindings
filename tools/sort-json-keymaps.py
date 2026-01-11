@@ -33,6 +33,6 @@ if "keymaps" in data and isinstance(data["keymaps"], list):
 data = sort_keys_recursive(data)
 
 # Save JSON
-with open(file_path, "w", encoding="utf-8") as f:
+with open(file_path, "w", newline="\n", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
     f.write("\n")

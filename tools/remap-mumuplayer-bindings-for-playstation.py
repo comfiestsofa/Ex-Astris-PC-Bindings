@@ -21,7 +21,7 @@ bindings_tsv = os.path.join(script_dir, "..", bindings_tsv)
 # Load bindings from TSV
 xinput_to_ps = {}
 xinput_to_mumuplayer_ps = {}
-with open(bindings_tsv, newline="", encoding="utf-8") as f:
+with open(bindings_tsv, encoding="utf-8") as f:
     reader = csv.DictReader(f, delimiter="\t")
     for row in reader:
         xinput_key = row["XInput/DS4Windows"]
@@ -53,6 +53,6 @@ for km in data.get("keymaps", []):
             km["icon"]["description"] = f"({convert_combo(key_text, xinput_to_ps)}) {desc}"
 
 # Save JSON
-with open(output_json_file, "w", encoding="utf-8") as f:
+with open(output_json_file, "w", newline="\n", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
     f.write("\n")
