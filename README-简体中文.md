@@ -22,7 +22,7 @@ Hypergryph·Gryphline的3D RPG游戏[《来自星尘》](https://exa.gryphline.c
 
 | 模拟器 | 版本 | Android版本 | 对应状况 | 本专案的支援情况 |
 |---|---|---|---|---|
-| MuMuPlayer | 5.14.3 | 12 | **Hypergryph・Gryphline官方支援。**<br><br>如果无法从Google Play下载应用程式，请使用[F-Droid的Aurora Store](https://f-droid.org/zh_Hant/packages/com.aurora.store/)模拟器装置伪装（我个人已在「Sony Xperia 5 Dual」上确认可运作）。 | 已支援 |
+| MuMuPlayer | 5.14.3 | 12 | **Hypergryph・Gryphline官方支援。**<br><br>如果无法从Google Play下载应用程式，请使用[F-Droid的Aurora Store](https://f-droid.org/zh_Hans/packages/com.aurora.store/)模拟器装置伪装（我个人已在「Sony Xperia 5 Dual」上确认可运作）。 | 已支援 |
 | Bluestacks | 5.22.160.1025 | 13 | 会因libhoudini错误而当机，并可能出现颜色阶调跳动的问题。 | 尚未支援 |
 | Bluestacks | 5.22.160.1025 | 11 | 我个人尚未尝试，但其他使用者回报可正常运作（可能提升帧率）。但颜色阶调跳动问题依旧存在。 | 尚未支援 |
 
