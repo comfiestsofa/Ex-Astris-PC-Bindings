@@ -22,7 +22,7 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 
 | 에뮬레이터 | 버전 | Android 버전 | 지원 상황 | 본 프로젝트 지원 |
 |---|---|---|---|---|
-| MuMuPlayer | 5.14.3 | 12 | Hypergryph·Gryphline의 공식 지원.<br>Google Play에서 앱을 다운로드할 수 없는 경우, [F-Droid의 Aurora Store](https://f-droid.org/ko/packages/com.aurora.store/)를 사용하여 에뮬레이터 장치를 속여주세요(개인적으로는 "Sony Xperia 5 Dual"에서 동작 확인). | 지원 완료 |
+| MuMuPlayer | 5.14.3 | 12 | **Hypergryph·Gryphline의 공식 지원.**<br><br>Google Play에서 앱을 다운로드할 수 없는 경우, [F-Droid의 Aurora Store](https://f-droid.org/ko/packages/com.aurora.store/)를 사용하여 에뮬레이터 장치를 속여주세요(개인적으로는 "Sony Xperia 5 Dual"에서 동작 확인). | 지원 완료 |
 | Bluestacks | 5.22.160.1025 | 13 | libhoudini 오류로 인해 크래시 발생. 컬러 계조가 튀는 문제 있음. | 아직 미지원 |
 | Bluestacks | 5.22.160.1025 | 11 | 개인적으로는 아직 테스트하지 않았지만, 다른 사용자들은 동작 성공(프레임레이트 향상 가능성 있음)을 보고했습니다. 단, 컬러 계조 튀는 문제는 여전히 존재. | 아직 미지원 |
 
