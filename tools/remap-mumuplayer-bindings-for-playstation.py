@@ -10,7 +10,7 @@ if len(sys.argv) != 3:
 
 input_json_file = sys.argv[1]
 output_json_file = sys.argv[2]
-bindings_tsv = "data/mumuplayer-playstation-button-mappings.tsv"
+bindings_tsv = "data/mumuplayer-playstation-mappings.tsv"
 
 # Get the directory of the current script
 script_dir = os.path.dirname(os.path.abspath(__file__))
