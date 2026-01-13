@@ -90,7 +90,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(R2+←) EXA_COMBAT_DETAILS",
+                "description": "(R1+↓) EXA_COMBAT_DETAILS",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.16588566073102154,
@@ -101,7 +101,7 @@
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "7+←",
+                "text": "5+↓",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {

@@ -75,7 +75,7 @@ Based off of Hypergryph/Gryphline's official MuMuPlayer bindings published only 
 | R2 | RT | Shift | Item Info | Wave/Particle Switch | Item popups |
 | ✕ | A | Left Click (MOUSE1) | Travelling Strike |  |  |
 | L3 | LA | Tab |  | Item Bar |  |
-| R2+← | RT+← | C |  | Combat Details |  |
+| R1+↓ | RB+↓ | C |  | Combat Details |  |
 | ロ | X | 1 |  | Skill 1 | When using Combined or Mouse and Keyboard, holding down this button will rapidly press it. |
 | △ | Y | 2 |  | Skill 2 | When using Combined or Mouse and Keyboard, holding down this button will rapidly press it. |
 | 〇 | B | 3 |  | Skill 3 | When using Combined or Mouse and Keyboard, holding down this button will rapidly press it. |
