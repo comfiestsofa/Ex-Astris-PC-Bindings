@@ -13,7 +13,7 @@ else
 fi
 
 # Find all Base JSON files recursively, excluding .git and Unmodified folders
-find "$BASE_DIR" \( -type d -name ".git" -o -type d -name "*(Unmodified)" \) -prune -o -type f -path "*/Base/*.json" -print | while read -r file; do
+find "$BASE_DIR" \( -type d -name ".git" -o -type d -name "*(Unmodified)" \) -prune -o -type f -path "*/Base/*XInput, DS4W*.json" -print | while read -r file; do
 	echo "Sorting JSON keymap: $file"
 
     if [ -n "$PY3" ]; then
