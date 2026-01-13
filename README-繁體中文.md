@@ -23,8 +23,8 @@ Hypergryph·Gryphline的3D RPG遊戲[《來自星塵》](https://exa.gryphline.c
 | 模擬器 | 版本 | Android版本 | 對應狀況 | 本專案的支援情況 |
 |---|---|---|---|---|
 | MuMuPlayer | 5.14.3 | 12 | **Hypergryph・Gryphline官方支援。**<br><br>如果無法從Google Play下載應用程式，請使用[F-Droid的Aurora Store](https://f-droid.org/zh_Hant/packages/com.aurora.store/)模擬器裝置偽裝（我個人已在「Sony Xperia 5 Dual」上確認可運作）。 | 已支援 |
-| Bluestacks<br>MSI App Player | 5.22.160.1025 | 13 | 會因libhoudini的錯誤而當機。存在色彩階調斷裂的問題。 | 尚未支援 |
-| Bluestacks<br>MSI App Player | 5.22.160.1025 | 11 | 遊戲可以運作，但與MuMuPlayer相比，效能明顯下降。存在色彩階調斷裂的問題。 | 尚未支援 |
+| Bluestacks<br><br>MSI App Player | 5.22.160.1025 | 13 | 會因libhoudini的錯誤而當機。存在色彩階調斷裂的問題。 | 尚未支援 |
+| Bluestacks<br><br>MSI App Player | 5.22.160.1025 | 11 | 遊戲可以運作，但與MuMuPlayer相比，效能明顯下降。存在色彩階調斷裂的問題。 | 尚未支援 |
 | PlayCover |  |  | 還沒試過。 | 尚未支援 |
 
 # 改善點

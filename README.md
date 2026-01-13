@@ -21,8 +21,8 @@ Based off of Hypergryph/Gryphline's official MuMuPlayer bindings published only 
 | Emulator | Version | Android Version | Compatibility | Supported by this project |
 |---|---|---|---|---|
 | MuMuPlayer | 5.14.3 | 12 | **Officially supported by Hypergryph/Gryphline.**<br><br>If Google Play doesn't let you download the app, use [Aurora Store from F-Droid](https://f-droid.org/packages/com.aurora.store/) to spoof the emulated device ("Sony Xperia 5 Dual" worked for me) and download it. | Yes |
-| Bluestacks<br>MSI App Player | 5.22.160.1025 | 13 | Crashes with a libhoudini error. Has colour banding issues. | Not yet |
-| Bluestacks<br>MSI App Player | 5.22.160.1025 | 11 | The game works, but with noticeably worse performance compared to MuMuPlayer. Has colour banding issues. | Not yet |
+| Bluestacks<br><br>MSI App Player | 5.22.160.1025 | 13 | Crashes with a libhoudini error. Has colour banding issues. | Not yet |
+| Bluestacks<br><br>MSI App Player | 5.22.160.1025 | 11 | The game works, but with noticeably worse performance compared to MuMuPlayer. Has colour banding issues. | Not yet |
 | PlayCover |  |  | Not yet tested. | Not yet |
 
 # Changes and improvements
