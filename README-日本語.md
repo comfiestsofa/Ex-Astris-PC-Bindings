@@ -24,7 +24,7 @@ Hypergryph・Gryphlineが公式に公開した簡体字中国語のMuMuPlayerキ
 |---|---|---|---|---|
 | MuMuPlayer | 5.14.3 | 12 | **Hypergryph・Gryphline による公式対応。**<br><br>Google Play からアプリがダウンロードできない場合は、[F-DroidのAurora Store](https://f-droid.org/ja/packages/com.aurora.store/)を使ってエミュレーター端末を偽装してください（個人的には「Sony Xperia 5 Dual」で動作確認済み）。 | 対応済み |
 | Bluestacks | 5.22.160.1025 | 13 | libhoudiniのエラーでクラッシュします。カラーの階調飛びが発生する問題があります。 | まだ未対応 |
-| Bluestacks | 5.22.160.1025 | 11 | 個人的にはまだ試していませんが、他のユーザーは動作成功（フレームレート向上の可能性あり）を報告しています。ただし、カラーの階調飛び問題は同様に残ります。 | まだ未対応 |
+| Bluestacks | 5.22.160.1025 | 11 | ゲームは動作しますが、MuMuPlayerと比べてパフォーマンスが明らかに低下します。カラーの階調飛びが発生する問題があります。 | まだ未対応 |
 | PlayCover |  |  | まだ試していません。 | まだ未対応 |
 
 # 改善点
