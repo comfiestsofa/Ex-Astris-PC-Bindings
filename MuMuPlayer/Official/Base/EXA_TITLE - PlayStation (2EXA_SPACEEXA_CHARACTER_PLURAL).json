@@ -168,7 +168,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L1+←) EXA_ENEMYEXA_SPACE1",
+                "description": "(L2+←) EXA_ENEMYEXA_SPACE1",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.2995391705069124,
@@ -179,7 +179,7 @@
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "4+←",
+                "text": "6+←",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
@@ -192,7 +192,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L1+↑) EXA_ENEMYEXA_SPACE2",
+                "description": "(L2+↑) EXA_ENEMYEXA_SPACE2",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.41877880184331795,
@@ -203,7 +203,7 @@
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "4+↑",
+                "text": "6+↑",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {
@@ -216,7 +216,7 @@
             "editor_icon_scale": 1,
             "icon": {
                 "background_color": "00000066",
-                "description": "(L1+→) EXA_ENEMYEXA_SPACE3",
+                "description": "(L2+→) EXA_ENEMYEXA_SPACE3",
                 "radius_correction": 1,
                 "rel_position": {
                     "rel_x": 0.4879032258064516,
@@ -227,7 +227,7 @@
             "key": {
                 "device": "joystick",
                 "scan_code": 2147483647,
-                "text": "4+→",
+                "text": "6+→",
                 "virtual_key": 2147483647
             },
             "rel_work_position": {

@@ -91,9 +91,9 @@ Based off of Hypergryph/Gryphline's official MuMuPlayer bindings published only 
 | R1+← | RB+← | Q |  | Entropith 1 |  |
 | R1+↑ | RB+↑ | E |  | Entropith 2 |  |
 | R1+→ | RB+→ | R |  | Entropith 3 |  |
-| L1+← | LB+← | Alt+F1 |  | Enemy 1 |  |
-| L1+↑ | LB+↑ | Alt+F2 |  | Enemy 2 |  |
-| L1+→ | LB+→ | Alt+F3 | Exit Zeolite | Enemy 3 |  |
+| L2+← | LT+← | Alt+F1 |  | Enemy 1 |  |
+| L2+↑ | LT+↑ | Alt+F2 |  | Enemy 2 |  |
+| L2+→ | LT+→ | Alt+F3 | Exit Zeolite | Enemy 3 |  |
 
 # Translations
 [**View on Google Sheets**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=0#gid=0)

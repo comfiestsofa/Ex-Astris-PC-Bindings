@@ -93,9 +93,9 @@ Hypergryph·Gryphline的3D RPG遊戲[《來自星塵》](https://exa.gryphline.c
 | R1+← | RB+← | Q |  | 熵核1 |  |
 | R1+↑ | RB+↑ | E |  | 熵核2 |  |
 | R1+→ | RB+→ | R |  | 熵核3 |  |
-| L1+← | LB+← | Alt+F1 |  | 敵1 |  |
-| L1+↑ | LB+↑ | Alt+F2 |  | 敵2 |  |
-| L1+→ | LB+→ | Alt+F3 | 從「沸石號」下車 | 敵3 |  |
+| L2+← | LT+← | Alt+F1 |  | 敵1 |  |
+| L2+↑ | LT+↑ | Alt+F2 |  | 敵2 |  |
+| L2+→ | LT+→ | Alt+F3 | 從「沸石號」下車 | 敵3 |  |
 
 # 翻譯一覽
 [**在Google試算表中查看**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=0#gid=0)

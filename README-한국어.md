@@ -93,9 +93,9 @@ Hypergryph·Gryphline이 공식적으로 공개한 간체 중국어 MuMuPlayer �
 | R1+← | RB+← | Q |  | 엔트로피스 1 |  |
 | R1+↑ | RB+↑ | E |  | 엔트로피스 2 |  |
 | R1+→ | RB+→ | R |  | 엔트로피스 3 |  |
-| L1+← | LB+← | Alt+F1 |  | 적 1 |  |
-| L1+↑ | LB+↑ | Alt+F2 |  | 적 2 |  |
-| L1+→ | LB+→ | Alt+F3 | 제올라이트에서 내리기 | 적 3 |  |
+| L2+← | LT+← | Alt+F1 |  | 적 1 |  |
+| L2+↑ | LT+↑ | Alt+F2 |  | 적 2 |  |
+| L2+→ | LT+→ | Alt+F3 | 제올라이트에서 내리기 | 적 3 |  |
 
 # 번역 목록
 [**Google 스프레드시트에서 보기**](https://docs.google.com/spreadsheets/d/1sZdIXy9ipPFspfZHkCX18rkhKeY1HSOZZj1IFY6_UoY/edit?gid=0#gid=0)
